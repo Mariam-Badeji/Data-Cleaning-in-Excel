@@ -1,0 +1,1311 @@
+StaffID,Name,Date Employed,Salary,Date of Birth,Gender,Department,Location,Rating
+Stf734993,Ches Bonnell,1/1/2010,58000,12/24/1981,Male,Sales,Lagos,Very Good
+Stf112616,Garwin Peasegood,1/2/2010,82000,12/27/1970,Female,Engineering,Lagos,Good
+Stf876357,Sidoney Yitzhok,1/3/2010,38000,12/19/1980,Female,,Abuja,Not Rated
+Stf954601,Saunders Blumson,1/4/2010,53000,12/27/1971,,Safety,Kaduna,Very Good
+Stf521830,Gardy Grigorey,1/5/2010,63000,12/25/1979,Female,Safety,Kaduna,Poor
+Stf846821,Marlie Charsley,1/6/2010,59000,12/18/1982,Male,Safety,Abuja,Poor
+Stf725604,Adella Hartshorne,1/7/2010,25000,12/26/1973,Female,Human Resources,Lagos,Average
+Stf708558,Rasla Fisby,1/8/2010,58000,12/26/1973,Male,Legal,Abuja,Very Good
+Stf356032,Rayna Gamlin,1/9/2010,30000,12/24/1981,,Legal,Abuja,Average
+Stf981846,Willi Vasey,1/10/2010,28000,12/26/1975,Female,Safety,Kaduna,Average
+Stf469066,Selby Hacker,1/11/2010,72000,12/21/1994,Male,Business Development,Lagos,Average
+Stf267412,Stefa Eggleston,1/12/2010,,12/18/1985,Male,Sales,Kaduna,Average
+Stf806691,Phylys Benitez,1/13/2010,29000,12/21/1994,Female,Product,Abuja,Average
+Stf485611,Ronnie Sinyard,1/14/2010,57000,12/18/1989,Female,Legal,Abuja,Good
+Stf120366,Axel Grigaut,1/15/2010,92000,12/20/1996,Male,Sales,Abuja,Poor
+Stf562364,Timmi Durran,1/16/2010,36000,12/25/1979,Male,Human Resources,Abuja,Good
+Stf319461,Minna Showler,1/17/2010,7000,12/24/1983,Female,Training,Kaduna,Good
+Stf240097,Dyanne Strafen,1/18/2010,26000,12/22/1990,Male,Engineering,Lagos,Average
+Stf944691,Dorolice Farry,1/19/2010,51000,12/26/1973,Female,Sales,Kaduna,Average
+Stf513677,Elliot Tuplin,1/20/2010,,12/27/1969,Female,Sales,Kaduna,Average
+Stf166558,Lion Adcock,1/21/2010,,12/27/1969,Female,Legal,Lagos,Average
+Stf691349,Vic Radolf,1/22/2010,,12/25/1976,Female,Product,Abuja,Very Good
+Stf508787,Tiffani Mecozzi,1/23/2010,,12/18/1989,Female,Training,Lagos,Average
+Stf180677,Jeane Bermingham,1/24/2010,,12/22/1988,Male,Sales,Kaduna,Very Poor
+Stf396762,Gavan Puttan,1/25/2010,,12/18/1989,Male,Finance,Abuja,Good
+Stf499476,Danielle Johananoff,1/26/2010,,12/25/1979,Male,Cxc,Lagos,Average
+Stf330966,Rafaelita Blaksland,1/27/2010,4000,12/19/1982,Female,Cxc,Kaduna,Good
+Stf311754,Brit Hamnett,1/28/2010,26000,12/27/1970,Male,Human Resources,Abuja,Average
+Stf285415,Mable Phythian,1/29/2010,59000,12/18/1989,Female,Engineering,Kaduna,Average
+Stf588647,Joella Maevela,1/30/2010,64000,12/18/1989,Female,Sales,Abuja,Good
+Stf931101,Mollie Hanway,1/31/2010,35000,12/22/1988,Male,,Lagos,Average
+Stf994358,Obidiah Westrope,2/1/2010,3000,12/22/1990,Male,Legal,Kaduna,Good
+Stf584422,Murry Dryburgh,2/2/2010,85000,12/21/1995,Male,Sales,Kaduna,Poor
+Stf997094,Abbie Tann,2/3/2010,50000,12/20/1996,Female,Business Development,Lagos,Good
+Stf480626,Aluin Churly,2/4/2010,82000,12/23/1986,Female,Sales,Kaduna,Not Rated
+Stf305003,Bennett Gimenez,2/5/2010,49000,12/18/1989,Female,Human Resources,Abuja,Good
+Stf372248,Isa Mogie,2/6/2010,16000,12/25/1977,Female,Training,Kaduna,Good
+Stf427113,Yves Clunie,2/7/2010,48000,12/20/1996,Female,Marketing,Lagos,Average
+Stf652541,Iain Wiburn,2/8/2010,17000,12/25/1977,Female,Sales,Kaduna,Average
+Stf159266,Nonah Bissell,2/9/2010,80000,12/23/1987,Male,Engineering,Kaduna,Poor
+Stf203923,Mendel Gentsch,2/10/2010,5000,12/22/1990,Male,Human Resources,Lagos,Very Poor
+Stf295060,Alfred Peplay,2/11/2010,75000,12/23/1984,Female,Human Resources,Lagos,Very Good
+Stf771406,Adelina Cheeseman,2/12/2010,64000,12/27/1969,Male,Safety,Kaduna,Very Good
+Stf461784,Minetta Parsons,2/13/2010,99000,12/20/1996,Female,Human Resources,Abuja,Good
+Stf761039,Hobard Benninger,2/14/2010,36000,12/18/1989,Female,Product,Abuja,Average
+Stf681356,Fancy Bonin,2/15/2010,11000,12/26/1972,,Training,Lagos,Good
+Stf963344,Laura Gomar,2/16/2010,50000,12/25/1977,Female,Sales,Lag0s,Poor
+Stf456260,Beatrix Schoales,2/17/2010,51000,12/22/1989,,Sales,Kaduna,Average
+Stf601751,Clemmie Hebblewaite,2/18/2010,66000,12/20/1991,,Cxc,Kaduna,Very Poor
+Stf780483,Issie Crippes,2/19/2010,50000,12/25/1977,Female,Product,Abuja,Very Good
+Stf806040,Vasily MacVanamy,2/20/2010,52000,12/19/1991,Male,Human Resources,Lagos,Average
+Stf975456,Aile Strathearn,2/21/2010,68000,12/18/1994,Female,Marketing,Lagos,Good
+Stf210775,Shellysheldon Mahady,2/22/2010,80000,12/23/1985,Male,Training,Lagos,Very Poor
+Stf250987,Laney Renne,2/23/2010,51000,12/26/1973,Male,Engineering,Kaduna,Good
+Stf678742,Trace Sidsaff,2/24/2010,50000,12/18/1976,Female,Finance,Kaduna,Poor
+Stf391199,Kelly Corkitt,2/25/2010,22000,12/25/1978,Female,Human Resources,Lagos,Poor
+Stf649390,Karlen McCaffrey,2/26/2010,39000,12/21/1992,Female,Cxc,Kaduna,Very Poor
+Stf565473,Jordain Sparkwill,2/27/2010,87000,12/25/1979,Female,Product,Abuja,Good
+Stf412261,Billie Croucher,2/28/2010,75000,12/24/1980,Female,Engineering,Kaduna,Poor
+Stf464378,Izzy Brisco,3/1/2010,75000,12/26/1972,Female,Marketing,Abuja,Average
+Stf405438,Ignacius Losel,3/2/2010,32000,12/26/1975,Male,Legal,Kaduna,Good
+Stf960613,Peggi Bullas,3/3/2010,94000,12/17/1992,Male,Safety,Abuja,Average
+Stf638971,Bab Bridger,3/4/2010,58000,12/19/1983,Male,,Kaduna,Average
+Stf494944,Dyna Doucette,3/5/2010,25000,12/23/1984,Male,Sales,Abuja,Average
+Stf343323,Marcellina Kitt,3/6/2010,21000,12/24/1984,Female,Business Development,Kaduna,Very Good
+Stf687139,Shela Goade,3/7/2010,24000,12/25/1984,Male,Legal,Kaduna,Good
+Stf542806,Gwenneth Fealey,3/8/2010,84000,12/25/1976,Female,,Abuja,Average
+Stf471910,Kerrie Cockshutt,3/9/2010,62000,12/25/1977,Male,,Lagos,Average
+Stf554013,Christopher Kezourec,3/10/2010,100000,12/26/1977,Male,Training,Kaduna,Very Poor
+Stf359846,Larry Pioch,3/11/2010,90000,12/25/1976,Male,Sales,Abuja,Poor
+Stf109264,Bethanne Shoppee,3/12/2010,38000,12/17/1981,Female,Safety,Abuja,Good
+Stf623352,Reidar Skechley,3/13/2010,15000,12/27/1970,Male,Product,Abuja,Average
+Stf805037,Bari Toffano,3/14/2010,34000,12/22/1991,Male,Product,Kaduna,Poor
+Stf607590,Robinia Scholling,3/15/2010,21000,12/22/1991,Female,Human Resources,Kaduna,Average
+Stf575407,Grover Cooksey,3/16/2010,58000,12/22/1990,,Cxc,Kaduna,Poor
+Stf966410,Layton Crayden,3/17/2010,100000,12/23/1985,Male,Product,Kaduna,Average
+Stf990485,Marlowe Constantine,3/18/2010,18000,12/27/1969,Male,Cxc,Abuja,Average
+Stf723293,Rhianna McLeoid,3/19/2010,11000,12/23/1984,Male,Legal,Kaduna,Average
+Stf379856,Alida Welman,3/20/2010,81000,12/23/1984,Male,Human Resources,Kaduna,Average
+Stf857285,Jacobo Lasham,3/21/2010,73000,12/23/1985,Female,Cxc,Kaduna,Very Poor
+Stf681014,Rhody Odhams,3/22/2010,23000,12/20/1998,Male,Training,Lagos,Good
+Stf913936,Zach Polon,3/23/2010,67000,12/24/1980,Male,Marketing,Kaduna,Poor
+Stf112799,Taddeo Jovis,3/24/2010,99000,12/21/1992,Female,Sales,Abuja,Poor
+Stf341239,Katerine Lohden,3/25/2010,80000,12/26/1972,Male,Safety,Kaduna,Average
+Stf473839,Jakob Philippe,3/26/2010,46000,12/22/1988,Male,Marketing,Kaduna,Good
+Stf950565,Monroe Hendrickx,3/27/2010,60000,12/21/1993,Male,Finance,Kaduna,Not Rated
+Stf265982,Fred Dudeney,3/28/2010,2000,12/23/1985,Male,Cxc,Lagos,Poor
+Stf602600,Brose MacCorkell,3/29/2010,5000,12/27/1971,Female,Human Resources,Kaduna,Average
+Stf642739,Madelene Upcott,3/30/2010,60000,12/18/1991,Male,Legal,Abuja,Average
+Stf618287,Cara Havers,3/31/2010,74000,12/27/1971,Male,Marketing,Lagos,Good
+Stf782717,Gisella Mewe,4/1/2010,35000,12/19/1980,Female,Safety,Abuja,Good
+Stf814756,Daryn Kniveton,4/2/2010,21000,12/18/1985,Female,Marketing,Lagos,Poor
+Stf688058,Stormy Church,4/3/2010,67000,12/27/1969,Male,Sales,Lagos,Very Poor
+Stf166271,Cull Nannetti,4/4/2010,59000,12/27/1970,Male,Safety,Kaduna,Average
+Stf607876,Shirlene Argo,4/5/2010,42000,12/20/1998,Female,Cxc,Abuja,Not Rated
+Stf390158,Konstanze Wyleman,4/6/2010,41000,12/20/1989,Male,Engineering,Abuja,Average
+Stf686698,Vernor Atyea,4/7/2010,42000,12/20/1987,Female,Training,Kaduna,Good
+Stf757750,Pedro St. Hill,4/8/2010,78000,12/25/1978,Male,Engineering,Lagos,Average
+Stf837895,Tris Hynard,4/9/2010,19000,12/18/1986,Female,Product,Kaduna,Average
+Stf330320,Calvin O'Carroll,4/10/2010,67000,12/20/1981,Female,Sales,Abuja,Very Good
+Stf842126,Jessica Burditt,4/11/2010,90000,12/24/1983,Female,Cxc,Kaduna,Average
+Stf420020,Aurelea Devitt,4/12/2010,58000,12/26/1974,Male,Safety,Abuja,Average
+Stf670772,Meryl Waggatt,4/13/2010,65000,12/25/1976,Female,Business Development,Kaduna,Good
+Stf975818,Corri Ellcome,4/14/2010,39000,12/22/1990,Female,,Kaduna,Average
+Stf134373,Evyn Fyrth,4/15/2010,90000,12/26/1973,Male,Safety,Kaduna,Average
+Stf794437,Car Laden,4/16/2010,42000,12/23/1986,Male,Product,Lagos,Average
+Stf556067,Sarene Creeboe,4/17/2010,28000,12/17/1988,Male,Product,Kaduna,Average
+Stf656290,Steven Labat,4/18/2010,86000,12/19/1980,Male,Legal,Kaduna,Average
+Stf370029,Lindy Guillet,4/19/2010,50000,12/21/1992,Male,Training,Abuja,Poor
+Stf386421,Loren Rettie,4/20/2010,33000,12/21/1994,Female,Engineering,Kaduna,Average
+Stf844904,Daron Biaggioli,4/21/2010,61000,12/18/1985,Female,Product,Kaduna,Average
+Stf640439,Georg Dinnage,4/22/2010,77000,12/20/1996,Male,Training,Kaduna,Poor
+Stf332249,Ewart Hovel,4/23/2010,51000,12/24/1980,Female,Training,Lagos,Good
+Stf415456,Archaimbaud Pinchin,4/24/2010,52000,12/23/1987,Male,Marketing,Kaduna,Average
+Stf439968,Mile Swindley,4/25/2010,66000,12/25/1976,,Business Development,Kaduna,Average
+Stf186027,Garwood Penhale,4/26/2010,71000,12/23/1985,Female,Business Development,Kaduna,Very Good
+Stf730751,Valentia Etteridge,4/27/2010,5000,12/27/1970,Female,Business Development,Lagos,Average
+Stf765085,Courtney Given,4/28/2010,83000,12/23/1987,Male,Engineering,Abuja,Average
+Stf845508,Claudetta Petherick,4/29/2010,47000,12/25/1978,Female,Legal,Abuja,Poor
+Stf589880,Eberto William,4/30/2010,63000,12/20/1997,Female,Sales,Abuja,Average
+Stf151812,Bernie Gorges,5/1/2010,97000,12/21/1994,Female,Training,Lagos,Average
+Stf432916,Myrle Prandoni,5/2/2010,22000,12/23/1985,Male,Sales,Kaduna,Very Good
+Stf317333,Josepha Keningham,5/3/2010,59000,12/26/1972,Male,Human Resources,Kaduna,Average
+Stf237888,Garrick Hadwick,5/4/2010,40000,12/24/1980,Male,Safety,Abuja,Average
+Stf908275,Nessy Baskwell,5/5/2010,39000,12/25/1979,Male,Cxc,Kaduna,Average
+Stf680620,Rosco Cogley,5/6/2010,32000,12/18/1989,Male,Cxc,Abuja,Average
+Stf612816,Tulley Chiddy,5/7/2010,62000,12/19/1970,Female,Finance,Abuja,Average
+Stf455002,Camille Baldinotti,5/8/2010,27000,12/23/1984,Female,Product,Lagos,Good
+Stf489544,Dave Lacoste,5/9/2010,22000,12/18/1989,Male,Legal,Abuja,Average
+Stf983928,Crawford Scad,5/10/2010,88000,12/21/1995,Male,Human Resources,Kaduna,Average
+Stf240894,Larry Pioch,5/11/2010,62000,12/24/1983,Male,Sales,Abuja,Good
+Stf555234,Judie Di Bernardo,5/12/2010,38000,12/24/1980,Male,Finance,Abuja,Average
+Stf111587,Kakalina Stanaway,5/13/2010,62000,12/27/1970,Male,Human Resources,Kaduna,Poor
+Stf382635,Max Shower,5/14/2010,30000,12/24/1981,Male,Training,Kaduna,Not Rated
+Stf312065,Juditha Hatherleigh,5/15/2010,71000,12/21/1992,Female,Human Resources,Kaduna,Average
+Stf991662,Lanny Beaney,5/16/2010,25000,12/20/1999,Male,Legal,Abuja,Average
+Stf666932,Jim Perrygo,5/17/2010,50000,12/18/1989,Male,Cxc,Lagos,Good
+Stf630600,Shannen Crittal,5/18/2010,11000,12/20/1998,Female,Engineering,Kaduna,Good
+Stf488388,Katya Hundy,5/19/2010,50000,12/27/1971,Male,Business Development,Lagos,Average
+Stf206424,Cordelia Djuricic,5/20/2010,32000,12/21/1993,Female,Human Resources,Abuja,Very Poor
+Stf474670,Emory Whitten,5/21/2010,7000,12/23/1986,Female,Product,Lagos,Not Rated
+Stf345741,Philis Rowlstone,5/22/2010,51000,12/22/1989,Female,Human Resources,Lagos,Average
+Stf333487,Fedora Graffin,5/23/2010,65000,12/22/1990,Male,Sales,Lagos,Good
+Stf480722,Marjie Bamford,5/24/2010,39000,12/26/1973,Male,Sales,Abuja,Very Good
+Stf230458,Doe Clubley,5/25/2010,27000,12/27/1970,Female,Product,Kaduna,Not Rated
+Stf860042,Adella Hartshorne,5/26/2010,81000,12/22/1989,Female,Human Resources,Abuja,Good
+Stf662548,Barney Bonafant,5/27/2010,28000,12/23/1985,Female,Engineering,Abuja,Poor
+Stf284818,Nessi Delves,5/28/2010,16000,12/21/1993,Male,Training,Kaduna,Very Good
+Stf756510,Addi Studdeard,5/29/2010,33000,12/19/1982,Female,Product,Lagos,Very Poor
+Stf369546,Benoite Ackermann,5/30/2010,96000,12/23/1985,Female,Cxc,Abuja,Average
+Stf392318,Sharity Brands,5/31/2010,58000,12/26/1974,Male,Product,Abuja,Very Poor
+Stf128039,Cassondra Giottini,6/1/2010,72000,12/18/1989,Male,Marketing,Kaduna,Not Rated
+Stf751607,Beryl Burnsyde,6/2/2010,24000,12/22/1991,Male,Legal,Lagos,Good
+Stf684362,Ollie Schirak,6/3/2010,7000,12/26/1973,Male,Legal,Lagos,Average
+Stf591109,Amaleta Baltzar,6/4/2010,23000,12/18/1989,,Sales,Lagos,Very Poor
+Stf308774,Katya Hundy,6/5/2010,7000,12/18/1989,Male,Business Development,Kaduna,Poor
+Stf841090,Wyn Treadger,6/6/2010,24000,12/21/1994,Female,Business Development,Abuja,Average
+Stf478660,Orton Livick,6/7/2010,88000,12/25/1978,Male,Cxc,Abuja,Average
+Stf428792,Haven Belward,6/8/2010,92000,12/18/1989,Male,Finance,Lagos,Good
+Stf464474,Yasmeen Klimkiewich,6/9/2010,58000,12/27/1970,Female,Legal,Abuja,Very Good
+Stf426864,Kristofor Powner,6/10/2010,37000,12/25/1976,Male,Safety,Lagos,Average
+Stf240672,Phillipp Nekrews,6/11/2010,28000,12/19/1970,Male,Human Resources,Kaduna,Very Good
+Stf326804,Delora Arendt,6/12/2010,88000,12/25/1979,Female,Marketing,Abuja,Good
+Stf921652,Archibaldo Denny,6/13/2010,51000,12/22/1991,Female,Product,Lagos,Not Rated
+Stf837395,Jeane Blaszczak,6/14/2010,90000,12/20/1999,Female,Engineering,Lagos,Good
+Stf922692,Codi Beck,6/15/2010,78000,12/23/1987,Female,Business Development,Lagos,Poor
+Stf608143,Faunie Sinton,6/16/2010,32000,12/18/1989,Female,Sales,Abuja,Good
+Stf445885,Nicol Giacomi,6/17/2010,51000,12/23/1986,Female,Training,Kaduna,Average
+Stf377713,Crawford Scad,6/18/2010,88000,12/19/1970,Male,Human Resources,Lagos,Average
+Stf791079,Vassili Flay,6/19/2010,6000,12/25/1978,,Sales,Abuja,Average
+Stf147369,Halimeda Kuscha,6/20/2010,99000,12/22/1990,Female,Engineering,Abuja,Poor
+Stf291812,Charmaine Howie,6/21/2010,13000,12/21/1992,Male,Finance,Kaduna,Poor
+Stf179409,Norrie Grahl,6/22/2010,64000,12/24/1980,,Business Development,Abuja,Poor
+Stf376252,Ulick Maingot,6/23/2010,40000,12/19/1970,Female,Cxc,Kaduna,Average
+Stf420605,Millie Fiveash,6/24/2010,67000,12/27/1971,Female,Sales,Kaduna,Average
+Stf153133,Kayley Southwell,6/25/2010,32000,12/23/1985,Female,Marketing,Kaduna,Average
+Stf150639,Reena McKernan,6/26/2010,24000,12/19/1982,Female,Marketing,Kaduna,Average
+Stf222694,Seward Kubera,6/27/2010,27000,12/25/1977,Male,Engineering,Abuja,Very Good
+Stf555538,Rois Garrigan,6/28/2010,61000,12/18/1989,Male,Finance,Kaduna,Poor
+Stf412613,Euell Willoughley,6/29/2010,90000,12/23/1985,Male,Product,Kaduna,Very Good
+Stf326117,Lindi Morfey,6/30/2010,5000,12/23/1987,Male,Training,Kaduna,Good
+Stf438949,Gradey Litton,7/1/2010,74000,12/25/1977,Female,Finance,Kaduna,Good
+Stf481414,Iris Wagg,7/2/2010,12000,12/19/1970,Female,,Kaduna,Average
+Stf792077,Angeline Christophersen,7/3/2010,8000,12/22/1989,Female,Engineering,Kaduna,Average
+Stf417125,Farrel Vanyatin,7/4/2010,17000,12/24/1983,Male,Safety,Lagos,Average
+Stf247625,Kienan Epinay,7/5/2010,4000,12/19/1982,Male,Marketing,Kaduna,Poor
+Stf479045,Aloisia Minto,7/6/2010,1000,12/17/1988,Male,Sales,Abuja,Good
+Stf802414,Melisa Knott,7/7/2010,97000,12/20/1996,Female,Training,Kaduna,Average
+Stf261503,Koral Gerriet,7/8/2010,97000,12/18/1989,Male,Safety,Abuja,Average
+Stf235392,Constantino Espley,7/9/2010,4000,12/18/1989,Male,Finance,Abuja,Average
+Stf730803,Desi Peniman,7/10/2010,9000,12/19/1970,Female,Legal,Lagos,Average
+Stf193575,Torrance Collier,7/11/2010,8000,12/23/1987,Female,Training,Lagos,Good
+Stf273656,Ede Mignot,7/12/2010,61000,12/24/1981,Female,Sales,Kaduna,Good
+Stf102982,Marcia Muldrew,7/13/2010,74000,12/23/1987,Female,Sales,Lagos,Good
+Stf870624,Quintina Kilgannon,7/14/2010,71000,12/23/1984,Female,Legal,Kaduna,Poor
+Stf304574,Peria Revey,7/15/2010,80000,12/24/1982,,Engineering,Kaduna,Good
+Stf994551,Carry Loblie,7/16/2010,50000,12/24/1982,Female,Sales,Kaduna,Average
+Stf915191,Isadora Maunsell,7/17/2010,79000,12/24/1982,Male,Sales,Abuja,Average
+Stf434006,Tamara Couvet,7/18/2010,22000,12/18/1989,Female,Engineering,Abuja,Average
+Stf913488,Von Boeter,7/19/2010,90000,12/24/1982,Male,Product,Lagos,Good
+Stf841717,Forester Feakins,7/20/2010,80000,12/22/1990,Male,Business Development,Abuja,Average
+Stf150875,Gardy Eckersall,7/21/2010,99000,12/21/1995,Male,Sales,Kaduna,Good
+Stf208010,Gamaliel Ewins,7/22/2010,50000,12/26/1975,Male,Product,Abuja,Average
+Stf687454,Win Arthurs,7/23/2010,5000,12/22/1988,Female,Safety,Abuja,Average
+Stf159246,Richy Gray,7/24/2010,96000,12/18/1989,Female,Product,Kaduna,Very Good
+Stf252955,Patricia Dwelly,7/25/2010,76000,12/25/1979,Male,Finance,Lagos,Poor
+Stf881259,Erv Balmann,7/26/2010,42000,12/25/1976,Female,Cxc,Lagos,Very Good
+Stf332674,Demetria Le Estut,7/27/2010,33000,12/23/1984,Female,Safety,Abuja,Very Poor
+Stf767792,Deedee Ciotto,7/28/2010,19000,12/25/1978,Male,,Lagos,Poor
+Stf978412,Evanne Sheryn,7/29/2010,66000,12/25/1979,Female,Cxc,Abuja,Average
+Stf793938,Collette Blackaller,7/30/2010,39000,12/22/1991,Female,Human Resources,Kaduna,Good
+Stf344412,Mariann Mowat,7/31/2010,67000,12/22/1991,Male,Marketing,Kaduna,Good
+Stf114572,Tabbatha Pickston,8/1/2010,96000,12/19/1970,Male,Marketing,Abuja,Average
+Stf748293,Vlad Strangeway,8/2/2010,92000,12/21/1992,Male,Product,Abuja,Good
+Stf887795,Duky Wallace,8/3/2010,84000,12/27/1971,Male,Business Development,Kaduna,Average
+Stf556993,Townie Dongall,8/4/2010,44000,12/26/1974,Male,Legal,Kaduna,Not Rated
+Stf723365,Shana Bewly,8/5/2010,50000,12/19/1970,Female,Legal,Abuja,Poor
+Stf697704,Mick Tanguy,8/6/2010,88000,12/23/1984,Female,Sales,Lagos,Good
+Stf656141,Tadio Audritt,8/7/2010,68000,12/26/1972,,Human Resources,Abuja,Average
+Stf593807,Torey Rosell,8/8/2010,85000,12/25/1977,Male,Finance,Kaduna,Average
+Stf744514,Chrisy Kyme,8/9/2010,33000,12/19/1982,Female,Marketing,Lagos,Very Good
+Stf625815,Morten Dumphy,8/10/2010,53000,12/21/1992,Male,Legal,Kaduna,Poor
+Stf393849,Issy McLevie,8/11/2010,87000,12/26/1975,Male,Sales,Kaduna,Poor
+Stf317305,Michaeline Capehorn,8/12/2010,53000,12/23/1984,Female,Safety,Lagos,Poor
+Stf704921,Corny Linturn,8/13/2010,70000,12/27/1970,Female,Product,Kaduna,Poor
+Stf345859,Berny Bastide,8/14/2010,100000,12/24/1983,,Sales,Kaduna,Average
+Stf747354,Aindrea Lenormand,8/15/2010,88000,12/23/1987,Female,Human Resources,Abuja,Good
+Stf279000,Nels McClounan,8/16/2010,100000,12/24/1982,Male,Training,Abuja,Average
+Stf358055,Shanon Deverell,8/17/2010,15000,12/22/1988,Female,Sales,Lagos,Very Good
+Stf135131,Vaughn Carvill,8/18/2010,8000,12/20/1996,Female,Training,Lagos,Average
+Stf464655,Kora Allebone,8/19/2010,18000,12/24/1981,Female,Legal,Lagos,Not Rated
+Stf369469,Millard Brakewell,8/20/2010,17000,12/26/1975,Male,Product,Kaduna,Good
+Stf933944,Lizzie Mullally,8/21/2010,99000,12/20/1999,Male,Safety,Kaduna,Average
+Stf284987,Florie Tortoise,8/22/2010,67000,12/20/1999,Female,Sales,Abuja,Average
+Stf445311,Caro Chappel,8/23/2010,77000,12/20/1996,Female,Sales,Kaduna,Average
+Stf268349,Letisha Carrett,8/24/2010,82000,12/27/1971,Female,Sales,Abuja,Very Poor
+Stf189180,Melva Jickells,8/25/2010,78000,12/27/1969,Female,Product,Lagos,Poor
+Stf650849,Sadie Ratt,8/26/2010,32000,12/21/1993,Male,,Lagos,Good
+Stf590447,Riccardo Hagan,8/27/2010,66000,12/20/1996,Male,Human Resources,Abuja,Average
+Stf794344,Chauncey Schild,8/28/2010,15000,12/20/1998,Female,Safety,Abuja,Average
+Stf956918,Amery Ofer,8/29/2010,85000,12/25/1976,Female,Legal,Abuja,Very Good
+Stf202197,Aube Chadderton,8/30/2010,73000,12/23/1987,Female,Human Resources,Abuja,Average
+Stf252748,Michaella Perri,8/31/2010,38000,12/27/1970,Male,Training,Lagos,Very Poor
+Stf755215,Mord Cromblehome,9/1/2010,24000,12/19/1982,Male,Legal,Kaduna,Average
+Stf796875,Major O'Cahsedy,9/2/2010,80000,12/20/1996,Female,Legal,Abuja,Not Rated
+Stf172578,Joana Bartocci,9/3/2010,25000,12/24/1982,Male,Human Resources,Kaduna,Average
+Stf486461,Sly Cowley,9/4/2010,47000,12/21/1993,Male,Finance,Abuja,Average
+Stf997789,Augusta Cheetham,9/5/2010,55000,12/21/1993,Male,Sales,Abuja,Average
+Stf545328,Diarmid Alman,9/6/2010,99000,12/20/1999,Female,Training,Abuja,Poor
+Stf909599,Gearard Wixon,9/7/2010,33000,12/22/1989,Male,Human Resources,Abuja,Very Good
+Stf897397,Kaye Crocroft,9/8/2010,99000,12/18/1989,Male,Sales,Lagos,Poor
+Stf357955,Egor Minto,9/9/2010,45000,12/24/1980,,Legal,Abuja,Good
+Stf265122,Bren Absolon,9/10/2010,5000,12/27/1971,Male,Finance,Abuja,Good
+Stf524930,Alexine Portail,9/11/2010,10000,12/27/1971,Female,Sales,Lagos,Average
+Stf992930,Duffie Ibel,9/12/2010,1000,12/20/1998,Male,Sales,Kaduna,Average
+Stf610664,Gilles Jaquet,9/13/2010,67000,12/21/1992,Female,Finance,Kaduna,Not Rated
+Stf595659,Payton Pickervance,9/14/2010,38000,12/26/1974,Male,Marketing,Kaduna,Average
+Stf744302,Barny Fairweather,9/15/2010,82000,12/25/1979,Male,Marketing,Lagos,Very Poor
+Stf631994,Margot Royds,9/16/2010,12000,12/25/1979,Female,Human Resources,Lagos,Average
+Stf619930,Frederik Dartan,9/17/2010,87000,12/24/1981,Male,Engineering,Abuja,Very Good
+Stf502906,Aubert Wedmore.,9/18/2010,63000,12/18/1989,Female,Marketing,Lagos,Average
+Stf157512,Krystal Lambswood,9/19/2010,39000,12/25/1978,Female,Training,Abuja,Not Rated
+Stf475088,Nanice Boatwright,9/20/2010,93000,12/18/1989,,Marketing,Abuja,Very Poor
+Stf388829,Northrup Aires,9/21/2010,7000,12/20/1997,Female,Human Resources,Kaduna,Average
+Stf429393,Janina Wolverson,9/22/2010,22000,12/24/1980,Female,Sales,Kaduna,Good
+Stf968416,Floria Olivia,9/23/2010,84000,12/24/1982,Female,Sales,Abuja,Good
+Stf634273,Andrea Becker,9/24/2010,56000,12/18/1989,Female,Human Resources,Kaduna,Average
+Stf609499,Louise Lamming,9/25/2010,19000,12/27/1971,Female,Sales,Lagos,Average
+Stf944212,Renaldo Thomassin,9/26/2010,86000,12/23/1984,Male,Business Development,Kaduna,Average
+Stf444934,Carmel Pancoust,9/27/2010,85000,12/21/1994,Female,Cxc,Abuja,Good
+Stf223171,Tatum Hush,9/28/2010,14000,12/24/1981,Female,Human Resources,Abuja,Good
+Stf413142,Aldrich Glenny,9/29/2010,55000,12/25/1977,Male,Business Development,Kaduna,Average
+Stf493017,Calvin O'Carroll,9/30/2010,99000,12/24/1983,Female,Sales,Kaduna,Very Poor
+Stf369049,Griz Thorington,10/1/2010,24000,12/22/1989,Male,Safety,Abuja,Average
+Stf506968,Greta Bagehot,10/2/2010,32000,12/26/1972,Female,,Kaduna,Not Rated
+Stf520021,Eddy Stolze,10/3/2010,35000,12/18/1989,Male,Training,Kaduna,Average
+Stf348025,L;urette Bontein,10/4/2010,34000,12/20/1997,Male,Product,Abuja,Good
+Stf286805,Cindee Saice,10/5/2010,47000,12/26/1975,Female,Cxc,Abuja,Very Good
+Stf852412,Erin Androsik,10/6/2010,78000,12/25/1978,Male,Human Resources,Kaduna,Poor
+Stf989463,Genovera Ghost,10/7/2010,18000,12/21/1995,Male,Marketing,Kaduna,Average
+Stf558014,Felicdad Heibel,10/8/2010,39000,12/19/1970,Male,Business Development,Abuja,Average
+Stf658311,Jobey Boneham,10/9/2010,15000,12/18/1989,Female,Cxc,Kaduna,Average
+Stf977814,Radcliffe Fairpool,10/10/2010,69000,12/23/1984,Female,Cxc,Lagos,Very Good
+Stf769856,Gigi Bohling,10/11/2010,53000,12/21/1994,Male,Engineering,Lagos,Average
+Stf398327,Gare Mattiussi,10/12/2010,91000,12/23/1987,Male,Engineering,Abuja,Poor
+Stf607736,Carlin Demke,10/13/2010,52000,12/27/1971,Male,Business Development,Lagos,Good
+Stf503046,Wilt Wayvill,10/14/2010,26000,12/24/1982,Female,Legal,Kaduna,Average
+Stf848652,Ardyce Eacott,10/15/2010,26000,12/19/1970,Female,Human Resources,Kaduna,Average
+Stf620869,Lane Monteaux,10/16/2010,40000,12/24/1982,Female,Engineering,Kaduna,Average
+Stf173312,Cathi Gillbee,10/17/2010,95000,12/18/1989,Male,Legal,Abuja,Average
+Stf299544,Ronnie Mesias,10/18/2010,20000,12/22/1989,Male,Safety,Kaduna,Very Poor
+Stf202364,Hali Behnecke,10/19/2010,16000,12/27/1969,Male,Human Resources,Kaduna,Very Good
+Stf304105,Grady Rochelle,10/20/2010,66000,12/23/1987,Female,Finance,Kaduna,Very Good
+Stf757334,Crissie Cordel,10/21/2010,47000,12/19/1982,Female,Product,Abuja,Good
+Stf240307,Durand Backhouse,10/22/2010,23000,12/22/1988,Female,Sales,Kaduna,Poor
+Stf746568,Wendel Malletratt,10/23/2010,36000,12/20/1996,Male,Business Development,Kaduna,Very Poor
+Stf903066,Shellysheldon Ellerman,10/24/2010,23000,12/19/1982,Female,Product,Abuja,Good
+Stf176161,Emmeline Bestwerthick,10/25/2010,25000,12/27/1971,Female,Sales,Kaduna,Not Rated
+Stf549894,Marmaduke Worssam,10/26/2010,61000,12/23/1987,Female,Engineering,Abuja,Very Poor
+Stf585902,Murial Ickovici,10/27/2010,92000,12/25/1978,Female,Business Development,Lagos,Average
+Stf399342,Honoria Cootes,10/28/2010,93000,12/20/1999,Female,Engineering,Abuja,Average
+Stf310211,Garvin Delacroix,10/29/2010,9000,12/27/1970,Male,,Abuja,Average
+Stf454430,Merrel Blind,10/30/2010,60000,12/19/1982,Female,Product,Lagos,Average
+Stf764069,Rosamond Fishe,10/31/2010,27000,12/21/1992,Male,Cxc,Lagos,Good
+Stf951089,Shelley Moncreiffe,11/1/2010,34000,12/22/1989,Male,Sales,Abuja,Average
+Stf353967,Cecilla Joselevitch,11/2/2010,92000,12/25/1977,Female,Human Resources,Abuja,Poor
+Stf431598,Jolynn Behnecken,11/3/2010,97000,12/22/1988,Female,Cxc,Kaduna,Poor
+Stf313832,Adolph McNalley,11/4/2010,75000,12/20/1997,Male,Business Development,Abuja,Poor
+Stf343022,Pippy Roxby,11/5/2010,31000,12/20/1996,Female,Human Resources,Kaduna,Average
+Stf865974,Jessi Calterone,11/6/2010,35000,12/19/1982,Male,Legal,Lagos,Poor
+Stf860648,Moore Gligoraci,11/7/2010,51000,12/21/1994,Female,Training,Lagos,Average
+Stf307017,Mallory Goldsberry,11/8/2010,7000,12/27/1970,Male,Product,Abuja,Average
+Stf536423,Nerissa Kavanagh,11/9/2010,45000,12/19/1982,Male,Training,Abuja,Good
+Stf618839,Foss Asquez,11/10/2010,9000,12/23/1986,Male,Safety,Abuja,Average
+Stf672390,Ab Lehrian,11/11/2010,54000,12/27/1971,Male,,Lagos,Average
+Stf704512,Mickey Pybus,11/12/2010,84000,12/27/1971,Male,Human Resources,Kaduna,Good
+Stf919131,Timmy Brenston,11/13/2010,64000,12/20/1999,Male,Business Development,Lagos,Average
+Stf649233,Romona Melody,11/14/2010,52000,12/24/1982,Female,Cxc,Lagos,Not Rated
+Stf499197,Bendite Bloan,11/15/2010,37000,12/21/1995,Male,Marketing,Lagos,Average
+Stf806269,Andrea Penfold,11/16/2010,5000,12/19/1982,Male,Marketing,Kaduna,Average
+Stf555552,Shari Pickston,11/17/2010,52000,12/24/1983,Male,Legal,Abuja,Average
+Stf207888,Dennison Crosswaite,11/18/2010,13000,12/26/1972,Male,Legal,Abuja,Very Poor
+Stf425005,Lucias Minico,11/19/2010,85000,12/18/1989,Female,Cxc,Kaduna,Average
+Stf601301,Helaine Lyddy,11/20/2010,61000,12/25/1978,Male,Cxc,Kaduna,Good
+Stf436652,Carlene Torry,11/21/2010,1000,12/19/1970,Female,Engineering,Lagos,Good
+Stf809598,Vere Kulic,11/22/2010,8000,12/27/1970,Male,Legal,Abuja,Poor
+Stf435311,Enrichetta Mowles,11/23/2010,83000,12/20/1996,Female,Finance,Kaduna,Average
+Stf317685,Delinda Snozzwell,11/24/2010,78000,12/18/1989,,Engineering,Abuja,Good
+Stf329960,Cecilio Sprankling,11/25/2010,77000,12/26/1975,Male,Sales,Abuja,Average
+Stf383222,Nickolai Artin,11/26/2010,66000,12/20/1999,Female,Product,Lagos,Average
+Stf867176,Beryl Burnsyde,11/27/2010,68000,12/25/1976,Male,Legal,Abuja,Very Good
+Stf872560,Ambrosio Daniely,11/28/2010,75000,12/24/1982,Female,Safety,Kaduna,Very Good
+Stf129569,Simon Kembery,11/29/2010,76000,12/18/1989,Male,Training,Lagos,Average
+Stf921679,Brig Dewi,11/30/2010,79000,12/21/1994,Male,Sales,Lagos,Average
+Stf159224,Althea Bronger,12/1/2010,79000,12/18/1989,Male,Product,Kaduna,Average
+Stf722126,Ansley Gounel,12/2/2010,7000,12/21/1993,Female,Product,Lagos,Average
+Stf306133,Daven Smout,12/3/2010,67000,12/23/1984,Female,Safety,Abuja,Very Good
+Stf831951,Julietta Culross,12/4/2010,54000,12/24/1980,Female,,Lagos,Average
+Stf701639,Niall Selesnick,12/5/2010,6000,12/18/1989,Female,Engineering,Lagos,Good
+Stf811647,Lia Lurner,12/6/2010,19000,12/19/1970,Female,Safety,Abuja,Average
+Stf556868,Rodrigo Congdon,12/7/2010,47000,12/24/1982,Female,Legal,Lagos,Average
+Stf785083,Brendan Edgeller,12/8/2010,63000,12/26/1972,Female,Legal,Abuja,Good
+Stf286170,Revkah Antonacci,12/9/2010,41000,12/21/1993,Male,,Abuja,Average
+Stf525449,Dewey Berthod,12/10/2010,96000,12/22/1988,Female,,Lagos,Average
+Stf255554,Fidelio Rigmond,12/11/2010,92000,12/23/1986,Male,Cxc,Lagos,Not Rated
+Stf566184,Ginger Myott,12/12/2010,90000,12/20/1998,Female,Cxc,Abuja,Average
+Stf656127,Hatti Vezey,12/13/2010,27000,12/20/1999,Female,Business Development,Kaduna,Average
+Stf836921,Eilis Pavlasek,12/14/2010,12000,12/24/1980,Male,Product,Kaduna,Very Poor
+Stf702532,Kellsie Waby,12/15/2010,100000,12/20/1996,Male,Training,Kaduna,Average
+Stf424422,Easter Pyke,12/16/2010,86000,12/21/1994,Female,Training,Kaduna,Very Good
+Stf756384,Inger Andriveaux,12/17/2010,9000,12/23/1987,,Finance,Abuja,Good
+Stf258515,Corina Triner,12/18/2010,78000,12/24/1980,Male,Sales,Kaduna,Poor
+Stf174707,Loralyn Bruton,12/19/2010,49000,12/27/1969,Male,Legal,Abuja,Average
+Stf623030,Clari Boole,12/20/2010,12000,12/22/1988,Male,,Kaduna,Average
+Stf783375,Susy Challoner,12/21/2010,83000,12/23/1984,Female,Business Development,Kaduna,Good
+Stf691743,Jan Morforth,12/22/2010,97000,12/21/1995,Male,Marketing,Abuja,Good
+Stf675546,Cindi Stratten,12/23/2010,42000,12/20/1998,Female,Cxc,Lagos,Good
+Stf989304,Marline Wahncke,12/24/2010,96000,12/20/1999,Male,Legal,Abuja,Average
+Stf835100,Violetta Vial,12/25/2010,48000,12/24/1983,Male,Engineering,Kaduna,Average
+Stf677182,Beatriz Bateson,12/26/2010,9000,12/27/1970,Male,Marketing,Kaduna,Good
+Stf285078,Angeline Christophersen,12/27/2010,60000,12/27/1971,Female,Engineering,Abuja,Poor
+Stf464600,Evangelia Gowers,12/28/2010,81000,12/26/1974,Male,Business Development,Kaduna,Very Good
+Stf461118,Fonzie O'Shea,12/29/2010,52000,12/19/1970,Male,Product,Kaduna,Average
+Stf344471,Janene Hairsine,12/30/2010,43000,12/26/1973,Female,Marketing,Abuja,Average
+Stf809894,Linell Compfort,12/31/2010,8000,12/22/1991,Female,Finance,Abuja,Very Good
+Stf254338,Shaylah Owbrick,1/1/2011,70000,12/26/1973,Male,Safety,Abuja,Average
+Stf912553,Erin Androsik,1/2/2011,48000,12/24/1983,Male,Human Resources,Lagos,Very Good
+Stf962311,Honor Herreros,1/3/2011,68000,12/27/1970,Male,Sales,Abuja,Average
+Stf133150,Bethanne Leicester,1/4/2011,71000,12/20/1998,,Cxc,Abuja,Not Rated
+Stf678002,Ottilie Vittel,1/5/2011,84000,12/23/1987,Female,Business Development,Abuja,Not Rated
+Stf192089,Barnaby Farnall,1/6/2011,37000,12/25/1979,,Engineering,Kaduna,Very Good
+Stf888465,Arlie Newcombe,1/7/2011,42000,12/27/1969,Male,Finance,Lagos,Not Rated
+Stf764561,Ashien Gallen,1/8/2011,57000,12/23/1987,Female,Sales,Abuja,Very Good
+Stf719135,Stan Tolliday,1/9/2011,6000,12/20/1997,Female,Sales,Lagos,Average
+Stf703976,Minetta Parsons,1/10/2011,24000,12/18/1989,Female,Human Resources,Abuja,Average
+Stf519760,Abe Gayter,1/11/2011,62000,12/19/1982,Male,Training,Lagos,Good
+Stf390407,Kissiah Maydway,1/12/2011,54000,12/22/1988,Male,Finance,Lagos,Poor
+Stf275345,Charline Husset,1/13/2011,33000,12/21/1993,Male,Safety,Abuja,Poor
+Stf704024,Lorain Tew,1/14/2011,65000,12/25/1979,Female,Business Development,Lagos,Poor
+Stf942084,North Bertomeu,1/15/2011,13000,12/27/1970,Female,Marketing,Abuja,Good
+Stf423531,Martita Beaumont,1/16/2011,73000,12/17/1988,Male,Engineering,Lagos,Not Rated
+Stf608302,Janaya MacGinlay,1/17/2011,28000,12/20/1998,Female,Safety,Abuja,Average
+Stf149605,Cara Havers,1/18/2011,17000,12/22/1990,Male,Marketing,Kaduna,Very Good
+Stf780389,Ancell Moretto,1/19/2011,21000,12/27/1971,Female,Product,Abuja,Very Poor
+Stf153335,Minerva Ricardot,1/20/2011,5000,12/27/1969,Male,,Abuja,Not Rated
+Stf293739,Toby Brodhead,1/21/2011,66000,12/18/1989,Female,Finance,Lagos,Average
+Stf249656,Tulley Chiddy,1/22/2011,89000,12/22/1990,Female,Finance,Lagos,Very Good
+Stf248688,Niles Mahomet,1/23/2011,100000,12/26/1972,Female,Human Resources,Abuja,Average
+Stf795788,Avigdor Karel,1/24/2011,65000,12/17/1988,Male,Training,Kaduna,Average
+Stf171451,Luca Wolstenholme,1/25/2011,87000,12/20/1996,Male,Engineering,Kaduna,Average
+Stf314674,Efrem Mathonnet,1/26/2011,92000,12/25/1976,Female,Human Resources,Kaduna,Average
+Stf700058,Latisha Jolly,1/27/2011,3000,12/18/1989,Female,Sales,Lagos,Average
+Stf543418,Quentin Ferraresi,1/28/2011,46000,12/25/1978,Female,Finance,Abuja,Good
+Stf195294,Marco Wooland,1/29/2011,45000,12/18/1989,Female,Cxc,Kaduna,Average
+Stf906720,Thekla Lynnett,1/30/2011,88000,12/26/1972,Male,Training,Lagos,Poor
+Stf576636,Pedro Carluccio,1/31/2011,71000,12/24/1980,Male,Cxc,Lagos,Average
+Stf415317,Caron Kolakovic,2/1/2011,66000,12/23/1987,Male,Finance,Kaduna,Average
+Stf783189,Debera Gow,2/2/2011,57000,12/25/1979,Female,Sales,Lagos,Average
+Stf689417,Hoyt D'Alesco,2/3/2011,39000,12/18/1989,Male,Sales,Abuja,Poor
+Stf359625,Rudyard Tomsa,2/4/2011,86000,12/21/1992,Female,Marketing,Kaduna,Good
+Stf207139,Orran Gritskov,2/5/2011,22000,12/24/1981,Female,Legal,Lagos,Not Rated
+Stf567119,Tyson Prescote,2/6/2011,56000,12/22/1990,Male,Human Resources,Kaduna,Average
+Stf477950,Berenice Osbaldstone,2/7/2011,62000,12/26/1975,Female,Legal,Abuja,Average
+Stf319287,Jessika Jaycocks,2/8/2011,19000,12/26/1972,Female,Sales,Lagos,Average
+Stf741102,Gabie Millichip,2/9/2011,36000,12/20/1999,Male,Legal,Abuja,Very Good
+Stf443127,Pearla Beteriss,2/10/2011,38000,12/23/1985,Male,Cxc,Kaduna,Good
+Stf989068,Harwilll Domotor,2/11/2011,74000,12/25/1977,Male,Training,Kaduna,Average
+Stf964950,Carolina Blumsom,2/12/2011,78000,12/21/1994,Male,Legal,Abuja,Average
+Stf715984,Ryon Baroch,2/13/2011,7000,12/20/1997,Male,Finance,Abuja,Poor
+Stf421322,Georg Dinnage,2/14/2011,13000,12/19/1970,Male,Training,Kaduna,Good
+Stf591081,Marissa Infante,2/15/2011,42000,12/25/1979,,Training,Lagos,Average
+Stf795001,Daisie Dahlman,2/16/2011,62000,12/26/1972,Female,Human Resources,Lagos,Not Rated
+Stf757127,Joli Jodrelle,2/17/2011,59000,12/23/1986,Male,Cxc,Kaduna,Good
+Stf975874,Jessica Callcott,2/18/2011,54000,12/24/1983,Female,Marketing,Lagos,Very Good
+Stf253862,Michail Sicha,2/19/2011,36000,12/21/1992,Male,Marketing,Kaduna,Very Poor
+Stf346893,Sabina Scorrer,2/20/2011,9000,12/19/1982,Female,Safety,Kaduna,Average
+Stf266436,Bayard Gendricke,2/21/2011,95000,12/26/1973,Male,Legal,Kaduna,Very Poor
+Stf795014,Esmaria Denecamp,2/22/2011,51000,12/27/1971,Male,Marketing,Kaduna,Very Poor
+Stf398847,Antone Tolmie,2/23/2011,78000,12/26/1974,Male,Training,Kaduna,Good
+Stf847138,Tammi Lackham,2/24/2011,45000,12/25/1978,Female,Business Development,Abuja,Good
+Stf572378,Northrop Reid,2/25/2011,44000,12/24/1980,Female,,Kaduna,Average
+Stf831039,Nananne Gehringer,2/26/2011,55000,12/21/1992,,Safety,Lagos,Average
+Stf449033,Loren Bentote,2/27/2011,91000,12/18/1989,Male,Finance,Kaduna,Poor
+Stf161312,Manolo Gasnell,2/28/2011,35000,12/25/1977,Male,Engineering,Kaduna,Good
+Stf879981,Wyatt Clinch,3/1/2011,9000,12/23/1986,Male,Engineering,Lagos,Good
+Stf250305,Giselbert Newlands,3/2/2011,34000,12/18/1989,Male,Cxc,Abuja,Poor
+Stf178982,Cristal Demangeot,3/3/2011,50000,12/20/1999,Female,Sales,Abuja,Good
+Stf444055,Jaime Dowe,3/4/2011,34000,12/21/1995,Female,Finance,Lagos,Average
+Stf520837,Addia Penwright,3/5/2011,24000,12/23/1984,Male,Sales,Abuja,Poor
+Stf483232,Ali Roubert,3/6/2011,16000,12/19/1970,,Engineering,Abuja,Very Good
+Stf164816,Emmye Corry,3/7/2011,30000,12/23/1985,Male,Cxc,Abuja,Very Good
+Stf489068,Addy Pimblett,3/8/2011,37000,12/27/1970,Male,Product,Lagos,Average
+Stf303101,Angela Bangley,3/9/2011,96000,12/18/1989,Female,Training,Abuja,Not Rated
+Stf274302,Elbertine Hiscoe,3/10/2011,47000,12/25/1978,Female,Training,Abuja,Good
+Stf434221,Baudoin Dummigan,3/11/2011,59000,12/23/1984,Male,Legal,Kaduna,Average
+Stf679114,Lissy McCoy,3/12/2011,25000,12/20/1999,Female,Business Development,Abuja,Poor
+Stf261490,Ingunna Wainscoat,3/13/2011,59000,12/27/1970,Male,Safety,Kaduna,Average
+Stf632061,Amii Elms,3/14/2011,36000,12/18/1989,Female,Business Development,Kaduna,Poor
+Stf916445,Ignacio Delion,3/15/2011,66000,12/24/1983,Female,Engineering,Kaduna,Average
+Stf736019,Colby Reuven,3/16/2011,20000,12/19/1982,Male,Business Development,Lagos,Average
+Stf107283,Maggee Stiggles,3/17/2011,25000,12/19/1970,Female,Engineering,Abuja,Average
+Stf779116,Kelci Walkden,3/18/2011,4000,12/27/1970,Male,Human Resources,Kaduna,Very Poor
+Stf992298,Bogey Hitcham,3/19/2011,33000,12/22/1990,Male,Product,Lagos,Poor
+Stf170672,Pembroke Siflet,3/20/2011,34000,12/25/1977,Female,Human Resources,Abuja,Average
+Stf578321,Adolph Hartin,3/21/2011,33000,12/20/1999,Male,Product,Lagos,Poor
+Stf402137,Gisela Wille,3/22/2011,39000,12/24/1980,,Safety,Lagos,Poor
+Stf844154,Joyce Leyband,3/23/2011,41000,12/23/1984,Female,Product,Lagos,Average
+Stf533025,Reube Sushams,3/24/2011,16000,12/23/1984,Male,Marketing,Kaduna,Good
+Stf289010,Mathian MacMeeking,3/25/2011,95000,12/27/1971,Female,Cxc,Kaduna,Good
+Stf101856,Antonino Forsdicke,3/26/2011,42000,12/20/1998,Male,Product,Lagos,Average
+Stf105948,Mick Spraberry,3/27/2011,25000,12/18/1989,Female,Cxc,Abuja,Good
+Stf462091,Benita Gillice,3/28/2011,6000,12/18/1989,Male,Finance,Kaduna,Poor
+Stf680315,Caresa Christer,3/29/2011,54000,12/23/1986,Male,Safety,Lagos,Poor
+Stf943069,Letizia Hasselby,3/30/2011,76000,12/25/1978,Male,Legal,Abuja,Average
+Stf113178,Luce Beentjes,3/31/2011,20000,12/23/1984,Male,Training,Abuja,Good
+Stf635946,Sammy Gantlett,4/1/2011,81000,12/20/1997,Female,Product,Lagos,Very Poor
+Stf169766,Pooh Splevins,4/2/2011,27000,12/23/1986,Female,Business Development,Lagos,Average
+Stf404632,Aeriela Aickin,4/3/2011,21000,12/19/1970,Male,Product,Abuja,Average
+Stf752905,Tabbatha Pickston,4/4/2011,13000,12/21/1992,Male,Marketing,Abuja,Good
+Stf621728,Tawnya Tickel,4/5/2011,8000,12/18/1989,Male,Safety,Abuja,Not Rated
+Stf901455,Royal Nowakowska,4/6/2011,57000,12/27/1971,Male,Human Resources,Kaduna,Average
+Stf929465,Winny Millam,4/7/2011,21000,12/22/1989,Female,Business Development,Lagos,Not Rated
+Stf913751,Michael Sidry,4/8/2011,93000,12/22/1988,Male,Product,Abuja,Average
+Stf225640,Nolan Tortis,4/9/2011,94000,12/26/1973,Male,Safety,Abuja,Average
+Stf196036,De witt Lottrington,4/10/2011,66000,12/26/1975,Female,Sales,Abuja,Very Poor
+Stf474552,Baxter Brocks,4/11/2011,31000,12/24/1980,Female,Human Resources,Abuja,Poor
+Stf735902,Joyce Esel,4/12/2011,100000,12/20/1997,Male,Sales,Kaduna,Good
+Stf842944,Van Tuxwell,4/13/2011,35000,12/19/1970,Female,Business Development,Abuja,Good
+Stf900726,Fidela Artis,4/14/2011,1000,12/17/1988,Female,Sales,Lagos,Average
+Stf160936,Dov Thoresby,4/15/2011,73000,12/26/1973,Male,Safety,Abuja,Poor
+Stf261107,Aloise MacCathay,4/16/2011,76000,12/27/1970,Male,,Lagos,Average
+Stf507967,Cathi Delgardo,4/17/2011,63000,12/26/1973,Male,Product,Abuja,Good
+Stf139305,Doro Nolte,4/18/2011,85000,12/21/1995,Female,Cxc,Kaduna,Average
+Stf223726,Easter Pyke,4/19/2011,82000,12/26/1973,Female,Training,Abuja,Average
+Stf782676,Noll Forbear,4/20/2011,13000,12/19/1970,Male,Cxc,Kaduna,Average
+Stf644097,Myer McCory,4/21/2011,4000,12/26/1973,Male,Sales,Kaduna,Average
+Stf562113,Doralyn Segar,4/22/2011,69000,12/20/1998,Female,Safety,Kaduna,Average
+Stf462091,Clo Jimpson,4/23/2011,58000,12/25/1978,Male,Legal,Lagos,Very Poor
+Stf795481,Brose MacCorkell,4/24/2011,7000,12/20/1996,Female,Human Resources,Lagos,Poor
+Stf213786,Audry Yu,4/25/2011,18000,12/23/1987,Female,Training,Abuja,Average
+Stf896056,Dolley Grayley,4/26/2011,80000,12/21/1994,Female,Legal,Abuja,Very Good
+Stf689264,Meredith Rucklidge,4/27/2011,13000,12/21/1994,Male,Legal,Lagos,Not Rated
+Stf945959,Valida Merrigans,4/28/2011,5000,12/20/1997,Male,Sales,Kaduna,Very Poor
+Stf668548,Rory Ravenscroftt,4/29/2011,58000,12/20/1999,Female,Finance,Kaduna,Very Good
+Stf894600,Verla Timmis,4/30/2011,71000,12/26/1974,Male,Safety,Abuja,Average
+Stf282540,Jo Benoi,5/1/2011,24000,12/24/1982,Female,Human Resources,Kaduna,Average
+Stf882108,Marquita Liquorish,5/2/2011,54000,12/25/1979,Female,Legal,Kaduna,Average
+Stf998958,Caty Janas,5/3/2011,15000,12/25/1976,Male,Finance,Lagos,Poor
+Stf887774,Pennie Walmsley,5/4/2011,72000,12/17/1988,Male,Safety,Lagos,Not Rated
+Stf433275,Virge Garfield,5/5/2011,84000,12/22/1988,Male,Training,Abuja,Poor
+Stf603487,Rebecca Shillan,5/6/2011,54000,12/24/1981,Male,Sales,Abuja,Good
+Stf884655,Myrilla Mercik,5/7/2011,67000,12/18/1989,Female,Training,Kaduna,Average
+Stf432171,Giacobo Donke,5/8/2011,40000,12/25/1979,Male,Cxc,Kaduna,Average
+Stf996890,Barbara-anne Kenchington,5/9/2011,47000,12/26/1974,Female,Safety,Abuja,Average
+Stf911221,Aida Bleacher,5/10/2011,6000,12/18/1989,Male,Product,Abuja,Not Rated
+Stf244340,Cly Vizard,5/11/2011,34000,12/21/1993,Male,Business Development,Abuja,Average
+Stf560944,Aleksandr Botha,5/12/2011,8000,12/18/1989,Male,Sales,Abuja,Not Rated
+Stf942868,Evangelina Lergan,5/13/2011,83000,12/22/1988,Male,Safety,Kaduna,Average
+Stf257994,Maritsa Marusic,5/14/2011,62000,12/18/1989,Male,Sales,Kaduna,Average
+Stf585778,Tamar MacGilfoyle,5/15/2011,24000,12/18/1989,Male,Product,Kaduna,Average
+Stf633810,Chancey Dyos,5/16/2011,36000,12/23/1984,Male,Sales,Kaduna,Good
+Stf604753,Isaak Rawne,5/17/2011,26000,12/21/1993,Male,Marketing,Lagos,Average
+Stf598054,Gideon Hehir,5/18/2011,77000,12/27/1970,Female,Business Development,Kaduna,Average
+Stf955794,Irena Trousdell,5/19/2011,82000,12/25/1977,Female,Marketing,Kaduna,Very Poor
+Stf587049,Gino Groome,5/20/2011,60000,12/18/1989,Female,Sales,Lagos,Very Good
+Stf330153,Lamond Douthwaite,5/21/2011,22000,12/20/1998,Male,Engineering,Lagos,Very Poor
+Stf637213,Ebonee Roxburgh,5/22/2011,57000,12/18/1989,Male,Training,Kaduna,Very Good
+Stf190276,Nathanial Brounfield,5/23/2011,46000,12/22/1991,Male,Finance,Kaduna,Average
+Stf483502,Mallorie Waber,5/24/2011,43000,12/26/1972,Male,Training,Lagos,Good
+Stf930737,Ewart Laphorn,5/25/2011,85000,12/18/1989,Female,Training,Kaduna,Good
+Stf782844,Hilliary Roarty,5/26/2011,10000,12/25/1977,Male,Cxc,Kaduna,Poor
+Stf964177,Putnem Manchester,5/27/2011,90000,12/19/1982,Male,Sales,Lagos,Average
+Stf962575,Lanie Gatlin,5/28/2011,24000,12/22/1990,Female,Safety,Abuja,Not Rated
+Stf532239,Michel Jados,5/29/2011,39000,12/22/1991,Male,Sales,Abuja,Very Poor
+Stf893881,Lezlie Philcott,5/30/2011,93000,12/25/1976,Female,Sales,Lagos,Not Rated
+Stf341509,Sharl Bendson,5/31/2011,77000,12/21/1994,Female,Business Development,Abuja,Poor
+Stf990232,William Reeveley,6/1/2011,69000,12/26/1975,Male,Training,Abuja,Good
+Stf424452,Granville Stetson,6/2/2011,75000,12/21/1994,Female,Engineering,Lagos,Average
+Stf730822,Mirna Etoile,6/3/2011,68000,12/24/1982,Female,Legal,Kaduna,Average
+Stf125349,Freddie Johnikin,6/4/2011,12000,12/24/1983,Male,Safety,Lagos,Average
+Stf109005,Natalee Craiker,6/5/2011,21000,12/19/1970,Male,Product,Abuja,Average
+Stf111235,Mariette Daymont,6/6/2011,95000,12/22/1991,Female,Sales,Abuja,Average
+Stf405730,Aldrich Glenny,6/7/2011,46000,12/20/1996,Male,Business Development,Abuja,Not Rated
+Stf107836,Lonny Caen,6/8/2011,86000,12/24/1980,Female,Sales,Lagos,Very Good
+Stf687984,Murial Ickovici,6/9/2011,48000,12/20/1996,Female,Business Development,Kaduna,Good
+Stf460507,Kath Bletsoe,6/10/2011,69000,12/23/1985,Male,Marketing,Abuja,Very Poor
+Stf832225,Gayla Blackadder,6/11/2011,41000,12/22/1988,Female,Cxc,Lagos,Good
+Stf320170,Adela Dowsett,6/12/2011,31000,12/25/1977,Male,Safety,Lagos,Average
+Stf272824,Addi Studdeard,6/13/2011,97000,12/18/1989,Female,Product,Abuja,Poor
+Stf554251,Sharron Petegree,6/14/2011,78000,12/22/1991,Female,Product,Kaduna,Good
+Stf575495,Eleonore Airdrie,6/15/2011,19000,12/21/1994,Female,Engineering,Abuja,Average
+Stf582616,Rhiamon Mollison,6/16/2011,67000,12/18/1989,Female,Sales,Lagos,Average
+Stf135741,Karon Oscroft,6/17/2011,40000,12/17/1988,Male,Marketing,Lagos,Average
+Stf838511,Edi Hofton,6/18/2011,68000,12/25/1976,Male,Sales,Abuja,Not Rated
+Stf802287,Derk Bosson,6/19/2011,46000,12/26/1972,Female,Legal,Lagos,Average
+Stf954499,Lorrie Derycot,6/20/2011,52000,12/18/1989,Female,Safety,Lagos,Average
+Stf325516,Hartwell Pratchett,6/21/2011,26000,12/25/1979,Female,Training,Lagos,Average
+Stf873396,Van Ruseworth,6/22/2011,99000,12/20/1996,Female,Cxc,Abuja,Average
+Stf330911,Inge Creer,6/23/2011,41000,12/22/1990,Female,Cxc,Lagos,Very Poor
+Stf384209,Elwira Lyddiard,6/24/2011,36000,12/24/1981,Male,Product,Abuja,Average
+Stf117489,Kincaid Hellicar,6/25/2011,29000,12/22/1991,Male,Business Development,Kaduna,Very Good
+Stf683075,Maximo Guirard,6/26/2011,96000,12/25/1977,Female,Business Development,Kaduna,Average
+Stf581241,Alta Kaszper,6/27/2011,23000,12/20/1998,Male,Training,Lagos,Average
+Stf759196,Lamar Blewitt,6/28/2011,6000,12/26/1974,Male,Cxc,Lagos,Poor
+Stf263566,Hector Isard,6/29/2011,2000,12/22/1990,Male,Safety,Abuja,Very Good
+Stf305780,Barbara-anne Kenchington,6/30/2011,96000,12/25/1978,Female,Safety,Kaduna,Very Good
+Stf624712,Judi Cosgriff,7/1/2011,64000,12/26/1974,Female,Human Resources,Abuja,Good
+Stf155974,Janean Gostage,7/2/2011,38000,12/25/1977,Male,Cxc,Abuja,Not Rated
+Stf742212,Delphine Jewis,7/3/2011,23000,12/25/1979,Female,Finance,Kaduna,Average
+Stf243806,Matias Cormack,7/4/2011,2000,12/18/1989,Male,Sales,Kaduna,Average
+Stf334322,Rogers Rosenthaler,7/5/2011,36000,12/24/1981,Female,Business Development,Lagos,Poor
+Stf490119,Clarine Shambrooke,7/6/2011,48000,12/17/1988,,Safety,Lagos,Average
+Stf308458,Thedrick Rogeon,7/7/2011,47000,12/20/1996,Male,Marketing,Kaduna,Poor
+Stf113511,Roanne Phizacklea,7/8/2011,31000,12/19/1970,Female,Product,Abuja,Average
+Stf834633,Devinne Tuny,7/9/2011,65000,12/23/1987,Male,Engineering,Kaduna,Average
+Stf766270,Martelle Brise,7/10/2011,41000,12/19/1982,Male,Training,Kaduna,Average
+Stf543895,Dino Wooderson,7/11/2011,57000,12/26/1975,Male,Legal,Abuja,Poor
+Stf895315,Effie Vasilov,7/12/2011,62000,12/26/1972,Male,Safety,Lagos,Average
+Stf451765,Jermaine Steers,7/13/2011,76000,12/18/1989,Female,Finance,Abuja,Good
+Stf228129,Saunders Blumson,7/14/2011,60000,12/20/1998,,Legal,Abuja,Average
+Stf906676,Elliot Revelle,7/15/2011,9000,12/18/1989,Male,Legal,Abuja,Average
+Stf883700,Mora Innett,7/16/2011,91000,12/25/1979,Female,Legal,Lagos,Poor
+Stf563407,Mahalia Larcher,7/17/2011,47000,12/20/1997,Male,Finance,Abuja,Good
+Stf608458,Dotty Strutley,7/18/2011,38000,12/21/1992,Female,Engineering,Lagos,Average
+Stf981520,Margy Elward,7/19/2011,88000,12/22/1989,Male,Business Development,Lagos,Average
+Stf637211,Danica Nayshe,7/20/2011,75000,12/21/1993,Female,Cxc,Kaduna,Good
+Stf648804,Shari Pickston,7/21/2011,58000,12/18/1989,Male,Legal,Lagos,Not Rated
+Stf279084,Merrilee Plenty,7/22/2011,48000,12/18/1989,Female,Sales,Abuja,Good
+Stf929706,Romona Dimmne,7/23/2011,57000,12/22/1991,Female,Sales,Kaduna,Poor
+Stf728455,Lark Ironmonger,7/24/2011,88000,12/20/1996,Male,Marketing,Abuja,Poor
+Stf538769,Aube Chadderton,7/25/2011,39000,12/23/1985,Female,Human Resources,Lagos,Average
+Stf100895,Caritta Searl,7/26/2011,49000,12/26/1973,Male,Sales,Kaduna,Poor
+Stf139074,Ernestus O'Hengerty,7/27/2011,3000,12/18/1989,Female,Sales,Abuja,Average
+Stf394103,Camilla Castle,7/28/2011,65000,12/20/1998,Female,Product,Kaduna,Average
+Stf865674,Bette-ann Leafe,7/29/2011,22000,12/27/1969,Male,Human Resources,Abuja,Average
+Stf273844,Aurelia Stanners,7/30/2011,41000,12/25/1978,Female,Cxc,Lagos,Good
+Stf374030,Shelby Buckland,7/31/2011,90000,12/23/1985,Male,Cxc,Lagos,Average
+Stf684887,Barr Faughny,8/1/2011,59000,12/23/1984,Female,Marketing,Abuja,Average
+Stf813454,Farris Ditchfield,8/2/2011,92000,12/24/1981,Male,Human Resources,Kaduna,Good
+Stf786943,Gerald Caple,8/3/2011,15000,12/24/1981,Male,Training,Kaduna,Good
+Stf825540,Grier Kidsley,8/4/2011,9000,12/25/1976,Female,Product,Abuja,Average
+Stf415601,Yves Pawlik,8/5/2011,83000,12/18/1989,Male,Finance,Abuja,Very Good
+Stf367608,Korney Bockings,8/6/2011,34000,12/17/1988,Male,Engineering,Lagos,Average
+Stf968268,Stephan Bussel,8/7/2011,97000,12/19/1970,Male,Sales,Kaduna,Average
+Stf361134,Caron Pleven,8/8/2011,27000,12/24/1983,Female,Human Resources,Abuja,Average
+Stf215104,Jedd Moretto,8/9/2011,66000,12/17/1988,Male,Safety,Kaduna,Very Good
+Stf765196,Verney Sloegrave,8/10/2011,85000,12/23/1984,Male,Sales,Kaduna,Average
+Stf834959,Nerita Mycock,8/11/2011,6000,12/24/1982,Male,Finance,Kaduna,Average
+Stf674903,Mella Northam,8/12/2011,40000,12/24/1983,Male,Safety,Kaduna,Not Rated
+Stf276314,Thedrick Bothwell,8/13/2011,2000,12/18/1989,Male,Business Development,Kaduna,Average
+Stf444841,Georgianne Archbutt,8/14/2011,84000,12/18/1989,Female,Cxc,Kaduna,Not Rated
+Stf643216,Thorvald Milliken,8/15/2011,96000,12/18/1989,Female,Business Development,Lagos,Good
+Stf437502,Aileen McCritchie,8/16/2011,17000,12/21/1992,Male,Business Development,Lagos,Average
+Stf806215,Drusy MacCombe,8/17/2011,97000,12/24/1982,Male,Training,Kaduna,Average
+Stf896728,Cathyleen Hurch,8/18/2011,20000,12/18/1989,Female,Sales,Lagos,Average
+Stf438304,Jannel Labb,8/19/2011,14000,12/21/1992,Female,Sales,Kaduna,Average
+Stf246147,Cheryl Mantz,8/20/2011,55000,12/20/1999,Male,Sales,Kaduna,Good
+Stf675852,Madlen Ashburner,8/21/2011,22000,12/21/1994,Male,Safety,Abuja,Very Good
+Stf812607,Colly Littledike,8/22/2011,87000,12/24/1983,Female,Cxc,Lagos,Average
+Stf504547,Karyn Creeghan,8/23/2011,44000,12/17/1988,Male,Engineering,Kaduna,Good
+Stf374618,Edgard Irving,8/24/2011,30000,12/22/1990,,Sales,Kaduna,Good
+Stf570331,Cyril Medford,8/25/2011,63000,12/22/1988,Female,Sales,Abuja,Average
+Stf135787,Kikelia Ellor,8/26/2011,26000,12/24/1981,,Engineering,Kaduna,Very Good
+Stf915336,Dael Bugge,8/27/2011,59000,12/20/1997,Male,Training,Lagos,Poor
+Stf323257,Joyce Esel,8/28/2011,39000,12/18/1989,Male,Sales,Kaduna,Average
+Stf738823,Ferrell Skepper,8/29/2011,69000,12/24/1981,Female,Sales,Kaduna,Average
+Stf511141,Hannis January,8/30/2011,83000,12/19/1982,Male,Business Development,Lagos,Not Rated
+Stf183121,Pierson Measham,8/31/2011,72000,12/18/1989,Male,Business Development,Kaduna,Good
+Stf168967,Xylina Pargetter,9/1/2011,62000,12/18/1989,Female,Legal,Kaduna,Average
+Stf544561,Aretha Ettridge,9/2/2011,2000,12/19/1970,Female,Finance,Abuja,Average
+Stf335106,Joshia Farris,9/3/2011,54000,12/23/1985,Female,Legal,Kaduna,Average
+Stf209416,Cathi Delgardo,9/4/2011,84000,12/21/1994,Male,Product,Abuja,Not Rated
+Stf115216,Mabel Orrow,9/5/2011,1000,12/20/1996,Male,Product,Abuja,Poor
+Stf714838,Alexandros Rackley,9/6/2011,91000,12/23/1985,Female,Legal,Kaduna,Not Rated
+Stf605678,Mickie Dagwell,9/7/2011,37000,12/26/1972,Male,Engineering,Abuja,Not Rated
+Stf434796,Mariette Daymont,9/8/2011,35000,12/21/1993,Female,Sales,Lagos,Not Rated
+Stf942033,Win Arthurs,9/9/2011,36000,12/22/1991,Female,Safety,Abuja,Very Good
+Stf191013,Marni Jull,9/10/2011,76000,12/18/1989,Female,Cxc,Abuja,Good
+Stf872419,Sandy Cadden,9/11/2011,82000,12/25/1977,Female,Legal,Lagos,Average
+Stf988902,Wyn Treadger,9/12/2011,56000,12/22/1988,Female,Business Development,Kaduna,Good
+Stf856009,Marney O'Breen,9/13/2011,73000,12/26/1972,Female,Product,Kaduna,Good
+Stf178505,Westbrook Brandino,9/14/2011,63000,12/21/1995,Male,Legal,Lagos,Poor
+Stf586451,Sandi Labat,9/15/2011,40000,12/23/1984,Male,Sales,Abuja,Average
+Stf440433,Leilah Yesinin,9/16/2011,15000,12/23/1986,Female,Sales,Kaduna,Not Rated
+Stf440300,Lincoln Greatex,9/17/2011,97000,12/20/1999,Male,Human Resources,Abuja,Average
+Stf996797,Patti Dradey,9/18/2011,71000,12/22/1990,Male,Cxc,Lagos,Average
+Stf450460,Oona Donan,9/19/2011,14000,12/18/1989,Female,Business Development,Lagos,Average
+Stf747153,Burtie Moulden,9/20/2011,69000,12/21/1995,Female,Cxc,Lagos,Poor
+Stf404621,Mathian MacMeeking,9/21/2011,16000,12/23/1986,Female,Cxc,Lagos,Average
+Stf729434,Reg MacMichael,9/22/2011,85000,12/27/1969,Male,Cxc,Kaduna,Average
+Stf168695,Ignacius Losel,9/23/2011,7000,12/26/1972,Male,Legal,Kaduna,Poor
+Stf505890,Tonia Moules,9/24/2011,17000,12/18/1989,Female,Business Development,Abuja,Good
+Stf235253,Joey Keedwell,9/25/2011,18000,12/18/1989,Female,Marketing,Kaduna,Poor
+Stf174023,Clo Jimpson,9/26/2011,1000,12/19/1970,Male,Legal,Abuja,Good
+Stf696965,Bryant Scamp,9/27/2011,77000,12/17/1988,Female,Human Resources,Kaduna,Average
+Stf802530,Mick Titman,9/28/2011,43000,12/19/1970,Male,Training,Lagos,Poor
+Stf445037,Trudie Couch,9/29/2011,14000,12/24/1981,Female,Legal,Lagos,Average
+Stf592235,Cyndia Skedge,9/30/2011,81000,12/21/1995,Male,Safety,Abuja,Average
+Stf192644,Francoise Godbold,10/1/2011,79000,12/19/1982,Male,Sales,Kaduna,Average
+Stf262027,Staford Brood,10/2/2011,72000,12/19/1982,Female,,Kaduna,Good
+Stf323376,Filmore Fitzhenry,10/3/2011,94000,12/20/1996,Male,Human Resources,Kaduna,Not Rated
+Stf559801,Berna Dubery,10/4/2011,1000,12/25/1978,Male,Cxc,Kaduna,Very Poor
+Stf764668,Gerrard Doorey,10/5/2011,23000,12/25/1979,Male,Product,Abuja,Average
+Stf898392,Hiram Merkle,10/6/2011,19000,12/18/1989,Male,Legal,Kaduna,Not Rated
+Stf186239,Zebulon Allmen,10/7/2011,74000,12/22/1988,,Business Development,Abuja,Average
+Stf916516,Kingsley Hagard,10/8/2011,1000,12/26/1973,Male,Engineering,Kaduna,Average
+Stf823533,My Hanscome,10/9/2011,20000,12/24/1983,Male,Sales,Lagos,Average
+Stf464703,Eldredge MacClure,10/10/2011,36000,12/26/1972,Male,Legal,Kaduna,Average
+Stf926154,Pauletta Falkus,10/11/2011,47000,12/27/1970,Male,Sales,Kaduna,Average
+Stf716238,Deck McCallion,10/12/2011,35000,12/25/1976,Male,Sales,Abuja,Average
+Stf931302,Miguel Woolner,10/13/2011,31000,12/21/1995,Male,Training,Kaduna,Poor
+Stf103098,Yolande O'Dare,10/14/2011,66000,12/27/1971,Female,Finance,Abuja,Good
+Stf862213,Kit Battlestone,10/15/2011,32000,12/27/1971,Female,Sales,Abuja,Good
+Stf376887,Glennis Fussen,10/16/2011,20000,12/27/1971,Female,Sales,Kaduna,Good
+Stf651596,Rhiamon Mollison,10/17/2011,20000,12/18/1989,Female,Sales,Abuja,Average
+Stf294778,Theresita Chasmer,10/18/2011,90000,12/26/1973,Female,Product,Lagos,Average
+Stf690071,Pippy Shepperd,10/19/2011,24000,12/26/1975,Female,Finance,Kaduna,Very Good
+Stf330446,Petronella Marusik,10/20/2011,88000,12/21/1993,Male,Finance,Abuja,Average
+Stf799602,Andria Kimpton,10/21/2011,3000,12/22/1988,Male,Product,Abuja,Average
+Stf410007,Jarad Barbrook,10/22/2011,78000,12/21/1994,Female,Human Resources,Abuja,Very Poor
+Stf331943,Dulsea Folkes,10/23/2011,46000,12/24/1981,Female,Cxc,Lagos,Very Good
+Stf572958,Herschel Wareham,10/24/2011,37000,12/23/1987,Male,Cxc,Kaduna,Average
+Stf292068,Skip Morkham,10/25/2011,96000,12/19/1970,Female,Marketing,Kaduna,Average
+Stf958111,Merrilee Plenty,10/26/2011,40000,12/23/1984,Female,Sales,Abuja,Very Good
+Stf286611,Dayle O'Luney,10/27/2011,96000,12/23/1987,Female,Sales,Abuja,Good
+Stf214532,Gray Seamon,10/28/2011,75000,12/22/1991,Female,Business Development,Kaduna,Average
+Stf197304,Krysta Elacoate,10/29/2011,67000,12/25/1976,Male,Human Resources,Abuja,Very Poor
+Stf437479,Abramo Labbez,10/30/2011,74000,12/24/1980,Female,Sales,Lagos,Average
+Stf279414,Faun Rickeard,10/31/2011,100000,12/19/1982,Male,Product,Lagos,Average
+Stf629338,Jamesy O'Ferris,11/1/2011,77000,12/22/1991,Male,Finance,Kaduna,Average
+Stf585182,Fanchon Furney,11/2/2011,86000,12/19/1982,Male,Finance,Abuja,Average
+Stf285561,Pate Beardsley,11/3/2011,16000,12/20/1996,Male,Cxc,Lagos,Very Good
+Stf612258,Grady Crosgrove,11/4/2011,60000,12/21/1993,,Sales,Kaduna,Average
+Stf505607,Darcy Brewitt,11/5/2011,30000,12/23/1984,Male,Human Resources,Kaduna,Average
+Stf977140,Foss Asquez,11/6/2011,75000,12/22/1991,Male,Safety,Kaduna,Not Rated
+Stf828873,Gilda Richen,11/7/2011,95000,12/18/1989,Female,Safety,Abuja,Poor
+Stf813610,Antonino Forsdicke,11/8/2011,4000,12/23/1984,Male,Product,Abuja,Average
+Stf795635,Jobie Basili,11/9/2011,89000,12/19/1982,Female,Sales,Kaduna,Good
+Stf796174,Everard Borer,11/10/2011,57000,12/22/1991,Female,Marketing,Abuja,Average
+Stf832989,Anni Izzard,11/11/2011,75000,12/27/1970,Male,Human Resources,Abuja,Good
+Stf988498,Bebe Pollicott,11/12/2011,37000,12/21/1992,Female,Legal,Kaduna,Average
+Stf665780,Julian Andrassy,11/13/2011,18000,12/20/1997,Female,Marketing,Lagos,Poor
+Stf716845,Shell O'Griffin,11/14/2011,6000,12/22/1990,Female,Sales,Lagos,Average
+Stf652548,Dionne Garrish,11/15/2011,12000,12/19/1970,Female,Engineering,Abuja,Good
+Stf468515,Gilles Jaquet,11/16/2011,91000,12/27/1971,Female,Finance,Kaduna,Good
+Stf646461,Alexis Gotfrey,11/17/2011,48000,12/19/1970,Male,Engineering,Lagos,Very Good
+Stf415277,Xavier Filipic,11/18/2011,99000,12/24/1982,Female,Marketing,Kaduna,Good
+Stf881252,Liane Bedburrow,11/19/2011,98000,12/20/1997,Female,Training,Abuja,Average
+Stf961814,Meara Darrington,11/20/2011,73000,12/22/1990,Male,Engineering,Abuja,Poor
+Stf382160,Genevra Friday,11/21/2011,24000,12/24/1981,Female,Sales,Lagos,Average
+Stf819155,Penni Patemore,11/22/2011,62000,12/23/1985,Male,Cxc,Kaduna,Average
+Stf101865,Yanaton Wooster,11/23/2011,16000,12/25/1976,Male,Marketing,Abuja,Average
+Stf703113,Hedvige Stelfox,11/24/2011,19000,12/26/1974,Female,Human Resources,Abuja,Average
+Stf881423,Tammy Backson,11/25/2011,54000,12/19/1982,Female,Marketing,Abuja,Average
+Stf957726,Inger Chapelhow,11/26/2011,26000,12/23/1986,Female,Sales,Lagos,Average
+Stf736211,Arty Duigan,11/27/2011,89000,12/25/1977,Male,Legal,Abuja,Very Good
+Stf303691,Nani Brockley,11/28/2011,41000,12/18/1989,Male,Product,Abuja,Good
+Stf466857,Curtice Advani,11/29/2011,61000,12/24/1981,Male,Product,Lagos,Average
+Stf211802,Leela Eckart,11/30/2011,71000,12/21/1995,Male,Legal,Kaduna,Average
+Stf495181,Krystal Lambswood,12/1/2011,27000,12/19/1982,Female,Training,Kaduna,Poor
+Stf501390,Cristal Demangeot,12/2/2011,75000,12/25/1977,Female,Sales,Kaduna,Poor
+Stf625132,Jori Ashleigh,12/3/2011,31000,12/20/1998,Male,Legal,Abuja,Average
+Stf563756,Leslie Baruch,12/4/2011,80000,12/22/1990,Female,Finance,Kaduna,Very Good
+Stf928725,Helene Bouts,12/5/2011,81000,12/23/1984,Male,Sales,Lagos,Good
+Stf810613,Eleni O'Quin,12/6/2011,36000,12/23/1984,Male,Legal,Lagos,Average
+Stf156980,Alic Bagg,12/7/2011,65000,12/27/1971,Male,Legal,Kaduna,Average
+Stf747522,Maible Azemar,12/8/2011,86000,12/27/1971,Male,Finance,Kaduna,Average
+Stf675857,Abran Danielsky,12/9/2011,88000,12/22/1988,Female,Engineering,Kaduna,Average
+Stf872328,Halette Yesenev,12/10/2011,65000,12/26/1972,Male,Cxc,Kaduna,Average
+Stf127196,Cleveland Pottiphar,12/11/2011,29000,12/25/1976,Female,Marketing,Lagos,Very Good
+Stf298600,Osborn Pawle,12/12/2011,24000,12/23/1987,Male,Training,Abuja,Average
+Stf414653,Chas Happel,12/13/2011,28000,12/25/1976,Female,Cxc,Kaduna,Very Poor
+Stf904065,Roth Bourget,12/14/2011,80000,12/18/1989,Male,Cxc,Kaduna,Average
+Stf714638,Maisie Shotboulte,12/15/2011,100000,12/26/1974,Female,Marketing,Abuja,Very Good
+Stf904049,Felita Whitloe,12/16/2011,83000,12/22/1991,Male,Training,Kaduna,Good
+Stf612252,Cindi McDuffy,12/17/2011,67000,12/23/1987,Female,Cxc,Abuja,Very Poor
+Stf349914,Murry Dryburgh,12/18/2011,24000,12/19/1970,Male,Sales,Abuja,Average
+Stf762226,Dorise Labat,12/19/2011,22000,12/19/1982,Male,Business Development,Kaduna,Average
+Stf552493,Hephzibah Summerell,12/20/2011,51000,12/24/1983,Female,Cxc,Abuja,Average
+Stf174855,Alyosha Riquet,12/21/2011,12000,12/18/1989,Male,Legal,Abuja,Very Good
+Stf130530,Maximo Ungerecht,12/22/2011,19000,12/21/1994,Male,Safety,Lagos,Average
+Stf926941,Lezlie Balmann,12/23/2011,52000,12/23/1984,Male,Product,Kaduna,Poor
+Stf284117,Benny Karolovsky,12/24/2011,67000,12/23/1986,,Human Resources,Abuja,Average
+Stf497726,Gretchen Callow,12/25/2011,58000,12/26/1973,Female,Training,Kaduna,Average
+Stf393130,Candace Hanlon,12/26/2011,12000,12/21/1995,Male,Safety,Lagos,Average
+Stf529830,Oby Sorrel,12/27/2011,11000,12/20/1996,Female,Safety,Kaduna,Average
+Stf140670,Cecilia Marshalleck,12/28/2011,74000,12/21/1992,Female,Marketing,Abuja,Not Rated
+Stf515190,Antonetta Coggeshall,12/29/2011,39000,12/26/1974,Male,Sales,Kaduna,Average
+Stf961494,Purcell Le Pine,12/30/2011,26000,12/27/1970,,Legal,Kaduna,Good
+Stf705999,Archibald Dyzart,12/31/2011,33000,12/18/1989,Male,Product,Abuja,Average
+Stf515461,Lil Ibberson,1/1/2012,65000,12/25/1976,Male,Business Development,Kaduna,Good
+Stf750637,Karita Vasyanin,1/2/2012,79000,12/26/1972,Male,Legal,Lagos,Average
+Stf885963,Joaquin McVitty,1/3/2012,11000,12/25/1979,Male,Sales,Lagos,Good
+Stf354618,Collen Dunbleton,1/4/2012,19000,12/18/1989,Male,Engineering,Abuja,Poor
+Stf803364,Alysa Wankling,1/5/2012,34000,12/20/1999,,Legal,Lagos,Good
+Stf166518,Ardella Dyment,1/6/2012,40000,12/22/1991,Female,Business Development,Kaduna,Good
+Stf693440,Ryun Fasset,1/7/2012,96000,12/20/1999,Male,,Kaduna,Very Good
+Stf188919,Rodina Drinan,1/8/2012,81000,12/17/1988,Female,Sales,Abuja,Good
+Stf750815,Louise Lamming,1/9/2012,29000,12/22/1990,Female,Sales,Abuja,Poor
+Stf214346,Marga Lorenzo,1/10/2012,73000,12/25/1979,Female,Legal,Abuja,Good
+Stf137394,Alvie Keming,1/11/2012,32000,12/24/1983,Female,Legal,Kaduna,Poor
+Stf486199,Sheff Gerdts,1/12/2012,96000,12/27/1970,Male,Business Development,Abuja,Average
+Stf905811,Josie Barnson,1/13/2012,97000,12/19/1982,Female,Training,Kaduna,Very Good
+Stf784697,Petey Probey,1/14/2012,69000,12/24/1980,Male,Cxc,Kaduna,Poor
+Stf447854,Shelbi Aldin,1/15/2012,51000,12/20/1999,Female,Sales,Abuja,Poor
+Stf637813,Estell Kingsland,1/16/2012,57000,12/24/1980,Male,Sales,Kaduna,Average
+Stf367913,Lea Chaplin,1/17/2012,37000,12/22/1988,Female,Human Resources,Kaduna,Poor
+Stf657211,Onofredo Hassan,1/18/2012,9000,12/19/1970,Male,Product,Kaduna,Average
+Stf281411,Hyacinthie Braybrooke,1/19/2012,8000,12/27/1971,Female,Safety,Abuja,Average
+Stf499182,Agnes Collicott,1/20/2012,18000,12/20/1997,Female,Sales,Abuja,Average
+Stf838244,Margarete Blasing,1/21/2012,51000,12/20/1998,Male,Safety,Kaduna,Not Rated
+Stf650587,Patience Noot,1/22/2012,9000,12/22/1990,Female,Business Development,Abuja,Average
+Stf671219,Charmane Heistermann,1/23/2012,37000,12/25/1978,Female,Business Development,Kaduna,Average
+Stf839789,Jamal Beagen,1/24/2012,49000,12/21/1992,Female,Safety,Kaduna,Average
+Stf769490,Brigid Jeffrey,1/25/2012,92000,12/24/1980,Female,Safety,Kaduna,Good
+Stf472591,Nelli Schoolfield,1/26/2012,79000,12/26/1974,Female,Engineering,Kaduna,Average
+Stf976995,Abigael Basire,1/27/2012,98000,12/21/1994,Male,Engineering,Abuja,Average
+Stf193178,Anjanette Ferre,1/28/2012,83000,12/18/1989,,Human Resources,Abuja,Average
+Stf315898,Mackenzie Hannis,1/29/2012,14000,12/27/1969,Female,Training,Abuja,Very Poor
+Stf970048,Ambros Murthwaite,1/30/2012,65000,12/19/1970,Male,Sales,Lagos,Average
+Stf235020,Lek Scamaden,1/31/2012,27000,12/22/1991,Female,Training,Abuja,Good
+Stf706956,Jehu Rudeforth,2/1/2012,68000,12/27/1969,Female,Engineering,Abuja,Average
+Stf883280,Bert Yaakov,2/2/2012,22000,12/23/1987,Male,Sales,Kaduna,Poor
+Stf978847,Bordy Yatman,2/3/2012,3000,12/18/1989,Female,Product,Lagos,Good
+Stf308133,Georgie Caress,2/4/2012,86000,12/20/1996,Male,Marketing,Abuja,Average
+Stf492795,Krysta Elacoate,2/5/2012,16000,12/18/1989,Male,Human Resources,Kaduna,Average
+Stf179008,Jolynn Lumbley,2/6/2012,25000,12/25/1978,,Sales,Abuja,Average
+Stf473939,Gwendolyn Chrippes,2/7/2012,68000,12/27/1970,Male,Engineering,Abuja,Good
+Stf935740,Blythe Clipston,2/8/2012,15000,12/22/1988,Female,Human Resources,Kaduna,Average
+Stf376425,Sisely Hatchman,2/9/2012,52000,12/18/1989,Female,Sales,Kaduna,Average
+Stf762017,Alicea Pudsall,2/10/2012,80000,12/20/1997,Male,Finance,Abuja,Average
+Stf119338,Karee Ruslinge,2/11/2012,24000,12/27/1969,Female,Human Resources,Kaduna,Not Rated
+Stf183808,Wilone O'Kielt,2/12/2012,81000,12/18/1989,Female,Business Development,Lagos,Not Rated
+Stf747642,Justino Chapiro,2/13/2012,66000,12/26/1973,Male,Sales,Lagos,Average
+Stf592807,Maritsa Marusic,2/14/2012,48000,12/24/1980,Male,Sales,Abuja,Average
+Stf818119,Sisely Gatsby,2/15/2012,74000,12/26/1972,Female,Safety,Kaduna,Average
+Stf294866,Shantee D'Antonio,2/16/2012,25000,12/18/1989,Female,Product,Kaduna,Good
+Stf210304,Blaire Ruckman,2/17/2012,63000,12/19/1982,Male,Business Development,Kaduna,Average
+Stf683437,William Coveny,2/18/2012,42000,12/27/1971,Male,Legal,Abuja,Good
+Stf562423,Packston Joanic,2/19/2012,10000,12/21/1992,Male,Marketing,Kaduna,Good
+Stf938005,Joana Bartocci,2/20/2012,17000,12/21/1992,Male,Human Resources,Abuja,Average
+Stf532330,Sile Whorton,2/21/2012,10000,12/25/1978,Female,Legal,Kaduna,Not Rated
+Stf147530,Billi Fellgate,2/22/2012,76000,12/25/1978,Female,Business Development,Kaduna,Average
+Stf283448,Franchot Crocken,2/23/2012,63000,12/24/1980,Female,Finance,Abuja,Average
+Stf558880,Cletus McGarahan,2/24/2012,2000,12/27/1970,Female,Engineering,Lagos,Good
+Stf795703,Callie Duckels,2/25/2012,88000,12/21/1995,Male,Product,Abuja,Average
+Stf250272,Roselle Wandrach,2/26/2012,13000,12/20/1998,Male,Sales,Abuja,Average
+Stf701461,Lishe Casemore,2/27/2012,54000,12/27/1970,Male,Cxc,Kaduna,Average
+Stf429708,Garey Bird,2/28/2012,53000,12/19/1970,Female,Product,Lagos,Average
+Stf546467,Toby Micklewright,2/29/2012,45000,12/24/1980,Male,Legal,Lagos,Not Rated
+Stf358412,Dell Molloy,3/1/2012,21000,12/22/1989,Male,Engineering,Abuja,Poor
+Stf975785,Fidela Dowey,3/2/2012,42000,12/25/1976,Female,Engineering,Lagos,Very Good
+Stf599268,Emmanuel Westrey,3/3/2012,18000,12/24/1980,Female,Safety,Kaduna,Average
+Stf244731,Abigael Basire,3/4/2012,39000,12/23/1987,Male,Engineering,Lagos,Poor
+Stf190259,Melodie Torresi,3/5/2012,19000,12/25/1979,Female,Business Development,Lagos,Average
+Stf954811,Dewie Stodart,3/6/2012,75000,12/27/1970,Male,Finance,Kaduna,Average
+Stf342901,Fred Dudeney,3/7/2012,73000,12/25/1978,Male,Cxc,Abuja,Very Good
+Stf814663,Giffer Berlin,3/8/2012,96000,12/23/1986,Female,Sales,Kaduna,Good
+Stf265686,Bealle Glentworth,3/9/2012,26000,12/20/1997,Male,,Abuja,Poor
+Stf725990,Van Tuxwell,3/10/2012,41000,12/22/1989,Female,Business Development,Abuja,Poor
+Stf412513,Sarajane Scourge,3/11/2012,70000,12/24/1982,Female,Business Development,Abuja,Poor
+Stf494497,Rose Shurrocks,3/12/2012,54000,12/21/1992,Female,Sales,Kaduna,Good
+Stf556130,Mata Fishley,3/13/2012,14000,12/24/1982,Male,Finance,Abuja,Poor
+Stf165834,Irvine Blenkin,3/14/2012,17000,12/22/1988,Male,Human Resources,Abuja,Very Poor
+Stf786570,Wald Bountiff,3/15/2012,86000,12/21/1994,Female,Safety,Lagos,Very Good
+Stf686527,Leonerd Jiru,3/16/2012,14000,12/26/1975,Female,Marketing,Lagos,Not Rated
+Stf934588,Hinda Label,3/17/2012,55000,12/20/1997,Female,Human Resources,Kaduna,Average
+Stf289921,Irwin Kirsche,3/18/2012,17000,12/24/1982,Female,Finance,Kaduna,Poor
+Stf220100,Sile Whorton,3/19/2012,78000,12/26/1973,Female,Legal,Abuja,Average
+Stf107112,Jill Shipsey,3/20/2012,93000,12/21/1993,Male,Finance,Lagos,Average
+Stf725621,Nerissa Kavanagh,3/21/2012,74000,12/27/1969,Male,Training,Lagos,Not Rated
+Stf102888,Anabal Cooke,3/22/2012,46000,12/22/1989,Female,Product,Kaduna,Average
+Stf294697,Ava Whordley,3/23/2012,26000,12/26/1972,Female,Product,Abuja,Very Good
+Stf636669,Laney Thowless,3/24/2012,73000,12/25/1976,Male,Product,Kaduna,Good
+Stf955351,Ansley Gounel,3/25/2012,98000,12/21/1993,Female,Product,Abuja,Poor
+Stf648438,Cletus McGarahan,3/26/2012,49000,12/18/1989,Female,Engineering,Kaduna,Very Good
+Stf468514,Althea Bronger,3/27/2012,89000,12/19/1982,Male,Product,Kaduna,Poor
+Stf569683,Orlando Gorstidge,3/28/2012,46000,12/23/1984,Male,Marketing,Lagos,Very Poor
+Stf301465,Robbert Mandrier,3/29/2012,4000,12/22/1989,Female,Training,Abuja,Very Good
+Stf959334,Twila Roantree,3/30/2012,58000,12/22/1990,Female,Sales,Lagos,Poor
+Stf326268,Archibald Filliskirk,3/31/2012,52000,12/18/1989,Male,Sales,Abuja,Very Good
+Stf464698,Denni Wiggans,4/1/2012,71000,12/23/1987,Male,Product,Lagos,Poor
+Stf943211,Pyotr Lightewood,4/2/2012,71000,12/19/1970,Male,Training,Lagos,Not Rated
+Stf307401,Shari McNee,4/3/2012,45000,12/19/1970,Male,Sales,Lagos,Average
+Stf929239,Issiah Cradick,4/4/2012,76000,12/18/1989,Male,Engineering,Lagos,Not Rated
+Stf894321,Nollie Courteney,4/5/2012,22000,12/17/1988,Male,Sales,Abuja,Not Rated
+Stf911398,Tadio Dowdle,4/6/2012,30000,12/24/1982,Female,Product,Kaduna,Average
+Stf453529,Ondrea Banfield,4/7/2012,70000,12/25/1978,Female,Engineering,Kaduna,Average
+Stf765267,Asia Jerson,4/8/2012,48000,12/21/1995,Male,Cxc,Kaduna,Very Good
+Stf195223,Cornie Arstall,4/9/2012,35000,12/25/1977,Female,Product,Abuja,Average
+Stf838400,Jeane Blaszczak,4/10/2012,14000,12/18/1989,Female,Engineering,Lagos,Poor
+Stf697669,Hogan Iles,4/11/2012,34000,12/20/1999,Female,Finance,Lagos,Very Good
+Stf698758,Saundra O'Connel,4/12/2012,33000,12/27/1969,Male,Human Resources,Abuja,Average
+Stf318136,Malva Iacovacci,4/13/2012,61000,12/20/1999,Female,,Abuja,Average
+Stf808153,Rosaline Wenderott,4/14/2012,6000,12/25/1977,Female,Sales,Abuja,Good
+Stf128834,Bobina Teale,4/15/2012,26000,12/23/1987,Male,Marketing,Kaduna,Average
+Stf820679,Ruby Cracie,4/16/2012,23000,12/26/1974,Male,Sales,Kaduna,Poor
+Stf977854,Sissy Muehle,4/17/2012,14000,12/18/1989,Female,Finance,Kaduna,Average
+Stf806154,Lonny Caen,4/18/2012,91000,12/19/1970,Female,Sales,Lagos,Good
+Stf775101,Itch Tinklin,4/19/2012,73000,12/19/1970,Female,Safety,Abuja,Average
+Stf898558,Sibyl Dunkirk,4/20/2012,84000,12/26/1972,Female,Product,Kaduna,Very Poor
+Stf103235,Brodie Grimstead,4/21/2012,23000,12/24/1981,Male,Business Development,Kaduna,Good
+Stf269465,Amitie Mawson,4/22/2012,8000,12/26/1974,Female,Marketing,Lagos,Not Rated
+Stf853608,Dane Wudeland,4/23/2012,93000,12/23/1984,Female,Finance,Kaduna,Poor
+Stf826487,Yvette Bett,4/24/2012,10000,12/23/1984,Male,Human Resources,Lagos,Good
+Stf587200,Ianthe Sayre,4/25/2012,82000,12/24/1980,Male,Safety,Abuja,Very Good
+Stf336708,Jacklyn Andrioletti,4/26/2012,94000,12/21/1993,Female,Training,Abuja,Poor
+Stf620557,Eliza Hoggan,4/27/2012,42000,12/25/1978,Female,Legal,Lagos,Average
+Stf175121,Conchita Soden,4/28/2012,73000,12/24/1982,Male,Marketing,Abuja,Good
+Stf836730,Reggie Taylerson,4/29/2012,96000,12/23/1987,Male,Marketing,Lagos,Good
+Stf698068,Leslie Cardoso,4/30/2012,40000,12/23/1984,Female,Business Development,Abuja,Good
+Stf121211,Milton Lilie,5/1/2012,66000,12/23/1985,Female,Business Development,Kaduna,Average
+Stf441676,Aeriell Cuell,5/2/2012,70000,12/20/1998,Male,Legal,Abuja,Very Poor
+Stf622870,Anne-corinne Daulby,5/3/2012,38000,12/25/1978,Male,Engineering,Lagos,Good
+Stf945294,Lisle Danahar,5/4/2012,38000,12/20/1996,,Sales,Kaduna,Average
+Stf539896,Bryana Loyns,5/5/2012,48000,12/22/1990,Male,Sales,Kaduna,Average
+Stf999932,Anjela Spancock,5/6/2012,74000,12/25/1976,,Finance,Lagos,Average
+Stf630729,Daisie McNeice,5/7/2012,92000,12/24/1981,Male,Human Resources,Kaduna,Average
+Stf121697,Jillana Gabbitis,5/8/2012,30000,12/23/1985,Male,Marketing,Kaduna,Average
+Stf150001,Roddy Speechley,5/9/2012,63000,12/25/1977,Male,Finance,Abuja,Good
+Stf450231,Oran Buxcy,5/10/2012,85000,12/20/1998,Female,Engineering,Lagos,Poor
+Stf209475,Beverie Moffet,5/11/2012,8000,12/27/1971,Female,Safety,Abuja,Very Good
+Stf772149,Novelia Pyffe,5/12/2012,62000,12/21/1994,Male,Finance,Kaduna,Good
+Stf163977,Dare Tully,5/13/2012,21000,12/22/1990,Male,Business Development,Lagos,Not Rated
+Stf669476,Lilyan Klimpt,5/14/2012,81000,12/24/1980,Male,Cxc,Lagos,Average
+Stf522341,Jo-anne Gobeau,5/15/2012,49000,12/25/1976,Female,Training,Abuja,Good
+Stf393086,Sheff Gerdts,5/16/2012,30000,12/27/1969,Male,Business Development,Lagos,Good
+Stf683338,Florinda Crace,5/17/2012,26000,12/21/1995,Female,Sales,Abuja,Good
+Stf961136,Dominic Ortler,5/18/2012,65000,12/25/1976,Female,Product,Abuja,Average
+Stf496622,Cathrin Yanuk,5/19/2012,41000,12/26/1975,Male,Sales,Lagos,Very Poor
+Stf882506,Austine Littlewood,5/20/2012,33000,12/24/1983,Female,Cxc,Abuja,Average
+Stf248660,Alford Gerardi,5/21/2012,18000,12/25/1978,Female,Engineering,Lagos,Not Rated
+Stf305238,Cullie Bourcq,5/22/2012,18000,12/21/1993,Female,Sales,Abuja,Good
+Stf873676,Emanuel Beldan,5/23/2012,27000,12/20/1996,Male,Finance,Abuja,Average
+Stf889969,Danica Nayshe,5/24/2012,18000,12/26/1975,Female,Cxc,Kaduna,Not Rated
+Stf789582,Hildagard Reece,5/25/2012,25000,12/18/1989,Female,Cxc,Lagos,Average
+Stf508374,Kai Ryder,5/26/2012,44000,12/26/1975,Female,Finance,Lagos,Average
+Stf158922,Alfred Peplay,5/27/2012,12000,12/24/1980,Female,Human Resources,Kaduna,Not Rated
+Stf766599,Jeannie Petracco,5/28/2012,39000,12/17/1988,Female,Engineering,Abuja,Average
+Stf874805,Brad Gumb,5/29/2012,18000,12/18/1989,Male,Finance,Kaduna,Good
+Stf353700,Bonnie Newland,5/30/2012,29000,12/24/1982,Male,,Abuja,Average
+Stf471843,Reinald Franken,5/31/2012,15000,12/21/1995,Female,Engineering,Abuja,Very Good
+Stf315081,Carolyn Attack,6/1/2012,97000,12/26/1972,Female,Marketing,Lagos,Good
+Stf662092,Bogey Hitcham,6/2/2012,53000,12/23/1984,Male,Product,Abuja,Good
+Stf550932,Naoma Cruse,6/3/2012,81000,12/17/1988,Male,Sales,Kaduna,Average
+Stf795984,Oates Dinan,6/4/2012,20000,12/24/1983,Female,Sales,Lagos,Average
+Stf139664,Daphne Francillo,6/5/2012,97000,12/19/1982,Male,Training,Lagos,Average
+Stf548269,Kissiah Maydway,6/6/2012,28000,12/26/1972,Male,Finance,Lagos,Good
+Stf586349,Trix Lutsch,6/7/2012,87000,12/18/1989,Male,Business Development,Lagos,Average
+Stf128952,Carolin Fieldstone,6/8/2012,24000,12/25/1976,Female,Marketing,Kaduna,Average
+Stf296157,Dulsea Folkes,6/9/2012,95000,12/24/1980,Female,Cxc,Abuja,Average
+Stf719227,Corabel Luberto,6/10/2012,28000,12/20/1998,Female,Human Resources,Kaduna,Average
+Stf972792,Nicola Kiely,6/11/2012,60000,12/25/1976,Female,Business Development,Kaduna,Average
+Stf632417,Rey Chartman,6/12/2012,90000,12/21/1995,Female,Training,Kaduna,Poor
+Stf741933,Israel Farndon,6/13/2012,47000,12/21/1992,Male,Marketing,Lagos,Average
+Stf699914,Felipe Parkman,6/14/2012,78000,12/22/1991,Female,Training,Abuja,Very Good
+Stf999667,Margit Kunze,6/15/2012,89000,12/18/1989,Male,Engineering,Abuja,Good
+Stf882112,Oliy Feeney,6/16/2012,92000,12/21/1993,Female,Marketing,Lagos,Good
+Stf885929,Sandie Anthonies,6/17/2012,63000,12/22/1990,Male,Legal,Kaduna,Average
+Stf704346,Anni Dinse,6/18/2012,93000,12/19/1982,Male,Product,Lagos,Average
+Stf982940,Gaultiero Have,6/19/2012,90000,12/21/1992,Male,Finance,Kaduna,Average
+Stf817831,Corinna Griffiths,6/20/2012,71000,12/21/1993,Male,Safety,Kaduna,Good
+Stf938643,Cherlyn Barter,6/21/2012,54000,12/26/1972,Female,Finance,Abuja,Good
+Stf285598,Shea Mix,6/22/2012,26000,12/24/1982,Male,Sales,Lagos,Very Poor
+Stf915140,Leonidas Cavaney,6/23/2012,55000,12/23/1986,Male,Finance,Kaduna,Very Poor
+Stf393432,Tallie Chaikovski,6/24/2012,81000,12/22/1989,Male,Sales,Lagos,Average
+Stf562134,Andria Kimpton,6/25/2012,80000,12/19/1970,Male,Product,Kaduna,Average
+Stf585810,Rik Delete,6/26/2012,18000,12/19/1970,Female,Training,Kaduna,Good
+Stf915360,Bill Luffman,6/27/2012,4000,12/25/1977,,,Abuja,Average
+Stf926835,Codie Gaunson,6/28/2012,38000,12/18/1989,Male,Finance,Abuja,Poor
+Stf220026,Kaine Padly,6/29/2012,7000,12/23/1987,Male,Sales,Abuja,Very Good
+Stf286181,Freda Legan,6/30/2012,50000,12/20/1998,Female,Sales,Kaduna,Average
+Stf779252,Hiram Merkle,7/1/2012,32000,12/22/1991,Male,Legal,Kaduna,Average
+Stf150023,Christos Wintle,7/2/2012,77000,12/20/1998,Male,Engineering,Lagos,Good
+Stf727505,Magnum Locksley,7/3/2012,50000,12/24/1983,Female,Cxc,Abuja,Not Rated
+Stf556977,Adrianne Gave,7/4/2012,94000,12/25/1978,Male,Engineering,Lagos,Poor
+Stf429035,Warner Carwithan,7/5/2012,62000,12/23/1986,Female,Safety,Kaduna,Good
+Stf759039,Appolonia Snook,7/6/2012,92000,12/21/1992,Female,Cxc,Kaduna,Average
+Stf101318,Alikee Jecock,7/7/2012,24000,12/27/1971,Female,Legal,Kaduna,Poor
+Stf107522,Shay Chasney,7/8/2012,58000,12/25/1977,Male,Human Resources,Lagos,Average
+Stf363487,Trey Jurges,7/9/2012,92000,12/20/1998,Female,Legal,Kaduna,Poor
+Stf963992,Tracy Renad,7/10/2012,93000,12/23/1984,Female,Finance,Abuja,Average
+Stf309776,Sarajane Peachey,7/11/2012,98000,12/20/1996,Female,Marketing,Abuja,Poor
+Stf136206,Bili Sizey,7/12/2012,41000,12/22/1991,Male,Sales,Abuja,Average
+Stf307951,Clement Penhearow,7/13/2012,48000,12/20/1999,Female,,Kaduna,Average
+Stf339051,Shaun Kyrkeman,7/14/2012,55000,12/19/1970,Male,Product,Kaduna,Average
+Stf522753,Leena Bruckshaw,7/15/2012,43000,12/22/1990,Male,Sales,Lagos,Average
+Stf280480,Benni Simounet,7/16/2012,80000,12/21/1993,Male,Sales,Lagos,Very Poor
+Stf564330,Kay Edling,7/17/2012,31000,12/20/1996,Male,Safety,Lagos,Average
+Stf272450,Shayne Stegel,7/18/2012,66000,12/19/1982,Male,Business Development,Abuja,Very Good
+Stf261683,Floyd Cowgill,7/19/2012,79000,12/22/1990,Male,Safety,Kaduna,Average
+Stf866858,Claretta MacQuist,7/20/2012,2000,12/20/1999,Male,Human Resources,Abuja,Average
+Stf661092,Inger Chapelhow,7/21/2012,70000,12/27/1970,Female,Sales,Abuja,Good
+Stf816482,Brien Boise,7/22/2012,78000,12/27/1970,Female,Sales,Kaduna,Very Good
+Stf749564,Pancho De Ortega,7/23/2012,29000,12/20/1998,Male,Safety,Kaduna,Very Good
+Stf660915,Edd MacKnockiter,7/24/2012,72000,12/18/1989,Male,Finance,Lagos,Poor
+Stf703265,Hobie Stockbridge,7/25/2012,70000,12/24/1980,Male,Engineering,Lagos,Good
+Stf237506,Ludovika Plaice,7/26/2012,58000,12/22/1990,Male,Training,Kaduna,Not Rated
+Stf860959,Odessa Pusill,7/27/2012,69000,12/18/1989,Female,,Lagos,Not Rated
+Stf917291,Caro Hainsworth,7/28/2012,45000,12/27/1969,Male,Marketing,Kaduna,Good
+Stf922442,Nicolis Winspire,7/29/2012,63000,12/24/1980,Male,Engineering,Lagos,Good
+Stf865940,Niko MacGille,7/30/2012,36000,12/27/1969,Female,Engineering,Lagos,Average
+Stf271988,Evanne Levens,7/31/2012,74000,12/19/1970,Male,Human Resources,Kaduna,Good
+Stf429687,Trix Lutsch,8/1/2012,15000,12/23/1986,Male,Business Development,Abuja,Poor
+Stf326777,Michale Rolf,8/2/2012,57000,12/20/1999,Male,Cxc,Lagos,Very Good
+Stf546269,Cecilla Northen,8/3/2012,57000,12/23/1987,Male,Human Resources,Abuja,Average
+Stf810338,Cyrillus Garci,8/4/2012,72000,12/27/1969,Male,Business Development,Lagos,Average
+Stf480865,Dayle O'Luney,8/5/2012,64000,12/20/1996,Female,Sales,Lagos,Average
+Stf750986,Gunar Cockshoot,8/6/2012,86000,12/19/1982,Male,Business Development,Abuja,Good
+Stf287035,Silva Monte,8/7/2012,28000,12/21/1995,Male,Sales,Abuja,Poor
+Stf605257,Hans Bucke,8/8/2012,92000,12/26/1972,Male,Legal,Kaduna,Very Poor
+Stf792653,Elia Cockton,8/9/2012,14000,12/20/1996,Female,Safety,Kaduna,Average
+Stf106349,Freddy Linford,8/10/2012,62000,12/22/1989,Female,Training,Kaduna,Poor
+Stf210848,Gwenore Scotchmer,8/11/2012,73000,12/21/1995,Female,Business Development,Kaduna,Very Poor
+Stf837556,Maggie Ruberti,8/12/2012,16000,12/24/1983,Male,Training,Kaduna,Not Rated
+Stf875940,Desi Peniman,8/13/2012,77000,12/23/1986,Female,Legal,Kaduna,Average
+Stf930708,Allyce Hincham,8/14/2012,23000,12/25/1978,Male,Business Development,Lagos,Average
+Stf904377,Juanita Trembey,8/15/2012,79000,12/25/1978,,Business Development,Kaduna,Very Good
+Stf789607,Lincoln Cord,8/16/2012,24000,12/25/1978,Female,Safety,Abuja,Very Good
+Stf480675,Kerwin Blakely,8/17/2012,1000,12/23/1986,Male,Sales,Lagos,Poor
+Stf938466,Granny Spencelayh,8/18/2012,82000,12/25/1979,Male,Legal,Abuja,Average
+Stf268354,Collin Jagson,8/19/2012,45000,12/23/1987,Male,Cxc,Abuja,Poor
+Stf995346,Monti Burdus,8/20/2012,52000,12/20/1998,Female,Human Resources,Abuja,Average
+Stf945874,Konstantin Timblett,8/21/2012,27000,12/26/1975,Female,Training,Abuja,Average
+Stf670592,Fax Scotland,8/22/2012,82000,12/24/1981,Female,Marketing,Abuja,Average
+Stf267574,Isidora Guido,8/23/2012,38000,12/25/1976,Male,Engineering,Abuja,Very Good
+Stf990271,Erv Havill,8/24/2012,35000,12/26/1972,Female,Finance,Abuja,Not Rated
+Stf249611,Yoshiko Tamblingson,8/25/2012,32000,12/20/1997,Male,Sales,Kaduna,Good
+Stf344613,Barri Teacy,8/26/2012,39000,12/18/1989,Female,Finance,Lagos,Average
+Stf180895,Alisha Bloschke,8/27/2012,35000,12/22/1988,,Product,Abuja,Average
+Stf661443,Jerrilee Maginot,8/28/2012,59000,12/26/1973,Male,Business Development,Kaduna,Average
+Stf659027,Adi Seawright,8/29/2012,83000,12/27/1971,Female,Marketing,Kaduna,Very Poor
+Stf304623,Eward Astlett,8/30/2012,98000,12/26/1973,Male,Engineering,Lagos,Average
+Stf651236,Chauncey Schild,8/31/2012,80000,12/25/1978,Female,Safety,Lagos,Very Good
+Stf697485,Larissa Ingledow,9/1/2012,15000,12/20/1999,Male,Sales,Kaduna,Not Rated
+Stf180321,Orton Livick,9/2/2012,87000,12/19/1982,Male,Cxc,Abuja,Not Rated
+Stf571274,Jolynn Edkins,9/3/2012,79000,12/20/1996,Female,Safety,Kaduna,Average
+Stf535581,Beverie Moffet,9/4/2012,30000,12/22/1990,Female,Safety,Kaduna,Average
+Stf338582,Katey Cadany,9/5/2012,40000,12/20/1997,Male,Cxc,Abuja,Very Poor
+Stf208758,Alida Welman,9/6/2012,38000,12/22/1988,Male,Human Resources,Lagos,Poor
+Stf391785,Nicole Blowfelde,9/7/2012,29000,12/18/1989,Female,Training,Kaduna,Very Good
+Stf954973,Kelley Rounds,9/8/2012,5000,12/24/1981,Female,Engineering,Kaduna,Average
+Stf526482,Felice McMurty,9/9/2012,79000,12/20/1996,Female,Product,Abuja,Not Rated
+Stf578664,Layton Kierans,9/10/2012,71000,12/25/1977,Male,Human Resources,Kaduna,Very Poor
+Stf489933,Hedwiga Ingarfield,9/11/2012,73000,12/18/1989,Female,Legal,Kaduna,Average
+Stf344521,Frasquito Mosley,9/12/2012,41000,12/20/1998,,Safety,Abuja,Not Rated
+Stf754496,Amandy Jope,9/13/2012,22000,12/27/1971,Male,Finance,Abuja,Average
+Stf913427,Tarrah Wordsworth,9/14/2012,10000,12/26/1973,Female,Product,Abuja,Poor
+Stf816062,Fairfax Wallsam,9/15/2012,60000,12/24/1982,,Sales,Abuja,Average
+Stf303394,Chelsea Itzak,9/16/2012,36000,12/20/1996,Male,Safety,Kaduna,Average
+Stf417497,Craggie Whistlecraft,9/17/2012,67000,12/23/1985,Male,Product,Abuja,Average
+Stf175499,Faina Durand,9/18/2012,17000,12/20/1999,Male,Sales,Kaduna,Very Poor
+Stf997075,Joella Maevela,9/19/2012,18000,12/23/1987,Female,Sales,Kaduna,Good
+Stf644825,Virginia McConville,9/20/2012,6000,12/23/1984,Female,Human Resources,Abuja,Very Good
+Stf161920,Candy Aindrais,9/21/2012,59000,12/18/1989,Female,Business Development,Lagos,Very Good
+Stf716393,Allene Gobbet,9/22/2012,44000,12/19/1970,Female,Engineering,Abuja,Average
+Stf786439,Ruthanne Beadnell,9/23/2012,100000,12/26/1975,Female,Finance,Kaduna,Poor
+Stf746108,Ruthanne Beadnell,9/24/2012,25000,12/19/1982,Female,Finance,Kaduna,Poor
+Stf535764,Damien Netley,9/25/2012,45000,12/19/1982,Male,Engineering,Abuja,Good
+Stf626686,Rasia Fryatt,9/26/2012,80000,12/23/1986,Female,Human Resources,Lagos,Not Rated
+Stf514184,Bev Lashley,9/27/2012,36000,12/26/1973,Male,Business Development,Kaduna,Very Good
+Stf898601,Curtice Advani,9/28/2012,86000,12/26/1973,Male,Product,Lagos,Good
+Stf638588,Madge McCloughen,9/29/2012,26000,12/25/1977,,Training,Kaduna,Poor
+Stf486016,Frasier Straw,9/30/2012,6000,12/19/1982,Male,Business Development,Lagos,Very Good
+Stf636901,Dean Biggam,10/1/2012,82000,12/23/1986,Female,Training,Abuja,Poor
+Stf957724,Anni Dinse,10/2/2012,45000,12/24/1983,Male,Product,Lagos,Very Poor
+Stf371517,Husein Augar,10/3/2012,3000,12/26/1973,Female,Marketing,Kaduna,Very Good
+Stf213084,Shaylyn Ransbury,10/4/2012,40000,12/22/1990,Female,Safety,Abuja,Poor
+Stf387744,Christoph Stretton,10/5/2012,73000,12/26/1972,Female,Business Development,Abuja,Very Good
+Stf792960,Jordain Cyster,10/6/2012,70000,12/20/1999,Female,Engineering,Kaduna,Poor
+Stf887236,Malory Biles,10/7/2012,29000,12/25/1979,Female,Training,Kaduna,Not Rated
+Stf415655,Adey Ryal,10/8/2012,91000,12/23/1984,Female,Legal,Lagos,Average
+Stf415655,Adey Ryal,10/8/2012,91000,12/23/1987,Female,Legal,Lagos,Not Rated
+Stf737853,Sophia Reynolds,10/10/2012,96000,12/24/1982,Female,,Ondo,Very Good
+Stf539992,Gabriella Graham,10/11/2012,57000,12/22/1991,Female,Safety,Ogun,Good
+Stf140553,Isabella Marshall,10/12/2012,4000,12/21/1992,Female,Business Development,Abuja,Poor
+Stf389240,Lila Knight,10/13/2012,100000,12/19/1982,Female,Engineering,Enugu,Very Good
+Stf240010,Emily Wobg,10/14/2012,70000,12/24/1983,Female,Training,Abuuja,Poor
+Stf735596,Chloe Chong,10/15/2012,93000,12/22/1990,Female,Legal,Niger,Very Poor
+Stf923668,Ava Flores,10/16/2012,17000,12/24/1981,Female,Legal,Abuja,Very Good
+Stf639014,Samantha Martinex,10/17/2012,36000,12/19/1982,Female,,Abujaaa,Poor
+Stf111102,Stella Brown,10/18/2012,3000,12/18/1989,Female,Safety,Abbuja,Very Good
+Stf981421,Penelope Hill,10/19/2012,46000,12/19/1982,Female,Business Development,Abbuja,Poor
+Stf939952,Olivia Campbell,10/20/2012,3000,12/24/1983,Female,Engineering,Abbuja,Not Rated
+Stf515156,Grace Anyawu,10/21/2012,14000,12/27/1969,Female,Training,Abbuja,Average
+Stf276861,Amanda Samuel,10/22/2012,21000,12/24/1982,Female,Legal,Abbuja,Not Rated
+Stf236404,Favour Ocha,10/23/2012,73000,12/19/1982,Female,Legal,Abbuja,Not Rated
+Stf853417,Grace Ekpo,10/24/2012,27000,12/23/1986,Female,,Abbuja,Average
+Stf783634,Sandra Okon,10/25/2012,100000,12/24/1982,Female,Safety,Abbuja,Average
+Stf227083,Mary Stephen,10/26/2012,15000,12/21/1994,Female,Business Development,Abbuja,Very Good
+Stf961041,Mia Patel,10/27/2012,35000,12/19/1982,Male,Engineering,Abbuja,Average
+Stf667140,Daniel Adamu,10/28/2012,92000,12/18/1989,Male,Training,Abbuja,Poor
+Stf986977,Daniel Adams,10/29/2012,36000,12/21/1992,Male,Legal,Abbuja,Very Good
+Stf365623,Peter Job,10/30/2012,87000,12/25/1977,Male,Legal,Abbuja,Average
+Stf567394,Philip Badmus,10/31/2012,45000,12/17/1988,Male,,Abbuja,Average
+Stf173259,Chris Hill,11/1/2012,89000,12/18/1989,Male,Safety,Abbuja,Good
+Stf794276,Tony Mike,11/2/2012,92000,12/27/1969,Male,Business Development,Abbuja,Average
+Stf660403,Sam job,11/3/2012,6000,12/26/1974,Male,Engineering,Abbuja,Poor
+Stf869085,Promise Patrick,11/4/2012,16000,12/22/1991,Male,Training,Abbuja,Average
+Stf302977,Sam Paul,11/5/2012,51000,12/23/1985,Male,Legal,Abbuja,Good
+Stf451187,Ekong Etim,11/6/2012,13000,12/20/1997,Male,Legal,Abbuja,Average
+Stf193405,Basil James,11/7/2012,55000,12/19/1982,Male,,Abbuja,Very Poor
+Stf431300,,11/8/2012,13000,12/23/1985,Male,Safety,Abbuja,Good
+Stf876555,John Doe,11/9/2012,98000,12/25/1976,,Business Development,,Not Rated
+Stf329925,Jason White,11/10/2012,72000,12/25/1977,Maale,Engineering,,Poor
+Stf310673,Kelvin Walker,11/11/2012,78000,12/23/1986,Malle,Training,,Good
+Stf420787,Pet James,11/12/2012,2000,12/22/1989,M@le,Legal,,Very Good
+Stf153321,Sani Salami,11/13/2012,88000,12/22/1990,M@le,Legal,,Poor
+Stf479270,Dave Timi,11/14/2012,17000,12/19/1970,M@le,,,Average
+Stf572316,Michael Park,11/15/2012,36000,12/24/1982,M@le,Safety,,Good
+Stf555856,Tyler breeze,11/16/2012,3000,12/22/1990,M@le,Business Development,,Good
+Stf681664,Thomas  King,11/17/2012,71000,12/19/1982,M@le,Engineering,,Good
+Stf174563,Promise Patrick,11/18/2012,24000,12/23/1987,M@le,Training,,Average
+Stf102502,Sam Paul,11/19/2012,53000,12/20/1997,M@le,Legal,,Very Poor
+Stf456381,Ekong Etim,11/20/2012,36000,12/25/1979,M@le,Legal,,Good
+Stf749033,Basil James,11/21/2012,33000,12/18/1989,M@le,,,Average
+Stf167710,,11/22/2012,44000,12/21/1995,M@le,Safety,,Average
+Stf739465,John Doe,11/23/2012,67000,12/27/1969,M@le,Business Development,,Average
+Stf993798,Jason White,11/24/2012,70000,12/26/1973,M@le,Engineering,,Average
+Stf231944,Kelvin Walker,11/25/2012,51000,12/19/1970,M@le,Training,,Average
+Stf437177,Pet James,11/26/2012,55000,12/22/1991,M@le,Legal,,Good
+Stf285499,Sani Salami,11/27/2012,82000,12/23/1986,M@le,Legal,,Poor
+Stf241103,Dave Timi,11/28/2012,80000,12/21/1995,M@le,,,Very Good
+Stf145972,Michael Park,11/29/2012,42000,12/20/1999,M@le,Safety,,Good
+Stf637993,Tyler breeze,11/30/2012,14000,12/26/1972,M@le,Business Development,,Not Rated
+Stf156962,Thomas  King,12/1/2012,12000,12/23/1987,M@le,Engineering,,Average
+Stf222859,Promise Patrick,12/2/2012,90000,12/26/1974,M@le,Training,,Good
+Stf395757,Sam Paul,12/3/2012,8000,12/25/1979,M@le,Legal,,Good
+Stf551750,Ekong Etim,12/4/2012,2000,12/21/1993,M@le,Legal,,Good
+Stf434274,Basil James,12/5/2012,39000,12/24/1982,M@le,,,Average
+Stf165187,,12/6/2012,27000,12/18/1989,M@le,Safety,,Very Poor
+Stf224998,John Doe,12/7/2012,95000,12/25/1977,M@le,Business Development,,Average
+Stf536602,Jason White,12/8/2012,76000,12/24/1982,M@le,Engineering,,Not Rated
+Stf311916,Kelvin Walker,12/9/2012,57000,12/22/1991,M@le,Training,,Good
+Stf545774,Pet James,12/10/2012,67000,12/18/1989,M@le,Legal,,Average
+Stf466460,Sani Salami,12/11/2012,34000,12/22/1991,M@le,Legal,,Not Rated
+Stf177266,Dave Timi,12/12/2012,22000,12/18/1989,M@le,,,Average
+Stf348435,Michael Park,12/13/2012,24000,12/23/1984,M@le,Safety,,Average
+Stf843867,Tyler breeze,12/14/2012,90000,12/25/1979,M@le,Business Development,,Not Rated
+Stf391968,Thomas  King,12/15/2012,98000,12/19/1970,M@le,Engineering,,Average
+Stf535022,Promise Patrick,12/16/2012,100000,12/19/1982,M@le,Training,,Good
+Stf216438,Sam Paul,12/17/2012,13000,12/24/1982,M@le,Legal,,Average
+Stf890277,Ekong Etim,12/18/2012,28000,12/19/1982,M@le,Legal,,Very Good
+Stf862413,Basil James,12/19/2012,48000,12/23/1985,M@le,,,Good
+Stf997711,,12/20/2012,99000,12/18/1989,M@le,Safety,,Good
+Stf952593,John Doe,12/21/2012,61000,12/20/1999,M@le,Business Development,,Average
+Stf417377,Jason White,12/22/2012,11000,12/23/1985,M@le,Engineering,,Average
+Stf277744,Kelvin Walker,12/23/2012,83000,12/24/1982,M@le,Training,,Average
+Stf629737,Pet James,12/24/2012,83000,12/26/1975,M@le,Legal,,Good
+Stf907635,Sani Salami,12/25/2012,19000,12/25/1976,M@le,Legal,,Average
+Stf409102,Dave Timi,12/26/2012,25000,12/21/1995,M@le,,,Average
+Stf426976,Michael Park,12/27/2012,93000,12/21/1995,M@le,Safety,,Average
+Stf422067,Tyler breeze,12/28/2012,43000,12/21/1994,M@le,Business Development,,Average
+Stf696357,Thomas  King,12/29/2012,1000,12/18/1989,M@le,Engineering,,Average
+Stf850951,Promise Patrick,12/30/2012,55000,12/25/1978,M@le,Training,,Poor
+Stf638184,Sam Paul,12/31/2012,5000,12/19/1970,M@le,Legal,,Average
+Stf142231,Ekong Etim,1/1/2013,46000,12/23/1985,M@le,Legal,,Very Good
+Stf947617,Basil James,1/2/2013,36000,12/20/1996,M@le,,,Good
+Stf279984,,1/3/2013,37000,12/23/1987,M@le,Safety,,Good
+Stf928508,John Doe,1/4/2013,37000,12/22/1988,M@le,Business Development,,Average
+Stf584321,Jason White,1/5/2013,87000,12/18/1989,M@le,Engineering,,Average
+Stf954336,Kelvin Walker,1/6/2013,18000,12/20/1996,M@le,Training,,Average
+Stf734825,Pet James,1/7/2013,11000,12/19/1970,M@le,Legal,,Good
+Stf654148,Sani Salami,1/8/2013,45000,12/21/1993,M@le,Legal,,Good
+Stf418990,Dave Timi,1/9/2013,36000,12/21/1995,M@le,,,Very Poor
+Stf923494,Michael Park,1/10/2013,52000,12/21/1994,M@le,Safety,,Very Poor
+Stf105658,Tyler breeze,1/11/2013,67000,12/23/1986,M@le,Business Development,,Average
+Stf760368,Thomas  King,1/12/2013,74000,12/24/1981,M@le,Engineering,,Average
+Stf243455,Promise Patrick,1/13/2013,90000,12/25/1979,M@le,Training,,Good
+Stf626139,Sam Paul,1/14/2013,10000,12/18/1989,M@le,Legal,,Average
+Stf684232,Ekong Etim,1/15/2013,96000,12/22/1991,M@le,Legal,,Poor
+Stf631494,Basil James,1/16/2013,9000,12/26/1975,M@le,,,Very Good
+Stf331497,,1/17/2013,24000,12/23/1984,M@le,Safety,,Average
+Stf747376,John Doe,1/18/2013,78000,12/25/1976,M@le,Business Development,,Average
+Stf613857,Jason White,1/19/2013,41000,12/26/1972,M@le,Engineering,,Good
+Stf340916,Kelvin Walker,1/20/2013,22000,12/20/1999,M@le,Training,,Not Rated
+Stf183455,Pet James,1/21/2013,37000,12/26/1972,M@le,Legal,,Poor
+Stf636376,Sani Salami,1/22/2013,4000,12/19/1982,M@le,Legal,,Good
+Stf639407,Dave Timi,1/23/2013,48000,12/27/1971,M@le,,,Average
+Stf201083,Michael Park,1/24/2013,27000,12/25/1978,M@le,Safety,Abuja,Poor
+Stf776236,Tyler breeze,1/25/2013,7000,12/24/1980,M@le,Business Development,Ogun,Average
+Stf556371,Thomas  King,1/26/2013,51000,12/21/1993,M@le,Engineering,Ogun,Poor
+Stf957316,Promise Patrick,1/27/2013,13000,12/26/1975,M@le,Training,Ogun,Average
+Stf313511,Sam Paul,1/28/2013,25000,12/20/1998,M@le,Legal,Ogun,Poor
+Stf513305,Ekong Etim,1/29/2013,36000,12/25/1979,M@le,Legal,Ogun,Average
+Stf334656,Basil James,1/30/2013,48000,12/18/1989,M@le,,Ogun,Average
+Stf765584,,1/31/2013,34000,12/25/1977,M@le,Safety,Ogun,Average
+Stf118774,John Doe,2/1/2013,57000,12/18/1989,M@le,Business Development,Ogun,Average
+Stf174693,Jason White,2/2/2013,6000,12/25/1978,M@le,Engineering,Ogun,Very Poor
+Stf712589,Kelvin Walker,2/3/2013,35000,12/22/1991,M@le,Training,Ogun,Average
+Stf513770,Pet James,2/4/2013,61000,12/21/1995,M@le,Legal,Ogun,Very Good
+Stf646513,Sani Salami,2/5/2013,51000,12/23/1985,M@le,Legal,Ogun,Average
+Stf666990,Dave Timi,2/6/2013,22000,12/19/1970,M@le,,Ogun,Average
+Stf195589,Michael Park,2/7/2013,17000,12/18/1989,M@le,Safety,Ogun,Good
+Stf552998,Tyler breeze,2/8/2013,44000,12/26/1974,M@le,Business Development,Ogun,Very Good
+Stf465427,Thomas  King,2/9/2013,77000,12/23/1986,M@le,Engineering,Ogun,Very Good
+Stf773350,Promise Patrick,2/10/2013,68000,12/22/1988,M@le,Training,Ogun,Poor
+Stf903139,Sam Paul,2/11/2013,15000,12/19/1970,M@le,Legal,Ogun,Good
+Stf685952,Ekong Etim,2/12/2013,87000,12/19/1982,M@le,Legal,Ogun,Not Rated
+Stf633280,Basil James,2/13/2013,93000,12/26/1975,M@le,,Ogun,Not Rated
+Stf303492,,2/14/2013,53000,12/26/1972,M@le,Safety,Ogun,Good
+Stf918784,John Doe,2/15/2013,11000,12/19/1970,M@le,Business Development,Ogun,Good
+Stf616882,Jason White,2/16/2013,93000,12/26/1975,M@le,Engineering,Ogun,Average
+Stf646899,Kelvin Walker,2/17/2013,95000,12/24/1982,M@le,Training,Ogun,Good
+Stf543694,Pet James,2/18/2013,63000,12/23/1985,M@le,Legal,Ogun,Poor
+Stf140131,Sani Salami,2/19/2013,4000,12/22/1991,M@le,Legal,Ogun,Very Good
+Stf401598,Dave Timi,2/20/2013,19000,12/26/1975,M@le,,Ogun,Average
+Stf692173,Michael Park,2/21/2013,70000,12/21/1995,M@le,Safety,Ogun,Average
+Stf206798,Tyler breeze,2/22/2013,13000,12/21/1993,M@le,Business Development,Ogun,Average
+Stf728850,Thomas  King,2/23/2013,55000,12/20/1997,M@le,Engineering,Ogun,Good
+Stf897472,Promise Patrick,2/24/2013,21000,12/18/1989,M@le,Training,Ogun,Poor
+Stf294052,Sam Paul,2/25/2013,41000,12/23/1985,M@le,Legal,Ogun,Very Poor
+Stf382208,Ekong Etim,2/26/2013,90000,12/20/1998,M@le,Legal,Ogun,Average
+Stf360673,Basil James,2/27/2013,39000,12/27/1971,M@le,,Ogun,Poor
+Stf613441,,2/28/2013,9000,12/23/1984,M@le,Safety,Ogun,Very Poor
+Stf566550,John Doe,3/1/2013,24000,12/19/1970,M@le,Business Development,Ogun,Not Rated
+Stf485891,Jason White,3/2/2013,11000,12/25/1977,M@le,Engineering,Ogun,Average
+Stf775397,Kelvin Walker,3/3/2013,97000,12/26/1975,M@le,Training,Ogun,Average
+Stf660002,Pet James,3/4/2013,94000,12/23/1984,M@le,Legal,Ogun,Very Good
+Stf162744,Sani Salami,3/5/2013,72000,12/21/1995,M@le,Legal,Ogun,Very Good
+Stf510376,Dave Timi,3/6/2013,69000,12/23/1984,M@le,,Ogun,Poor
+Stf126877,Michael Park,3/7/2013,83000,12/18/1989,M@le,Safety,Ogun,Average
+Stf699216,Tyler breeze,3/8/2013,36000,12/22/1990,M@le,Business Development,Ogun,Poor
+Stf224771,Thomas  King,3/9/2013,25000,12/20/1999,M@le,Engineering,Ogun,Average
+Stf574756,Promise Patrick,3/10/2013,82000,12/18/1989,M@le,Training,Ogun,Average
+Stf633034,Sam Paul,3/11/2013,13000,12/19/1970,M@le,Legal,Ogun,Average
+Stf294706,Ekong Etim,3/12/2013,1000,12/22/1991,M@le,Legal,Ogun,Very Good
+Stf333834,Basil James,3/13/2013,67000,12/23/1984,M@le,,Ogun,Not Rated
+Stf474684,,3/14/2013,46000,12/22/1989,M@le,Safety,Lagos,Good
+Stf925850,John Doe,3/15/2013,21000,12/18/1989,M@le,Business Development,Lagos,Average
+Stf261657,Jason White,3/16/2013,2000,12/19/1970,M@le,Engineering,Lagos,Average
+Stf760196,Kelvin Walker,3/17/2013,66000,12/18/1989,M@le,Training,Lagos,Average
+Stf132377,Pet James,3/18/2013,84000,12/26/1973,M@le,Legal,Lagos,Very Poor
+Stf101370,Sani Salami,3/19/2013,3000,12/19/1982,M@le,Legal,Lagos,Average
+Stf416818,Dave Timi,3/20/2013,58000,12/19/1982,M@le,,Lagos,Very Good
+Stf213183,Michael Park,3/21/2013,33000,12/26/1973,M@le,Safety,Lagos,Not Rated
+Stf946614,Tyler breeze,3/22/2013,94000,12/21/1993,M@le,Business Development,Lagos,Not Rated
+Stf869702,Thomas  King,3/23/2013,67000,12/24/1980,M@le,Engineering,Lagos,Average
+Stf928499,Promise Patrick,3/24/2013,36000,12/20/1999,M@le,Training,Lagos,Average
+Stf791184,Sam Paul,3/25/2013,65000,12/18/1989,M@le,Legal,Lagos,Very Poor
+Stf842738,Ekong Etim,3/26/2013,1000,12/25/1979,M@le,Legal,Lagos,Poor
+Stf105015,Basil James,3/27/2013,90000,12/26/1973,M@le,,Lagos,Very Good
+Stf966573,,3/28/2013,5000,12/19/1970,M@le,Safety,Lagos,Average
+Stf331649,John Doe,3/29/2013,100000,12/21/1992,M@le,Business Development,Lagos,Not Rated
+Stf122653,Jason White,3/30/2013,8000,12/24/1981,M@le,Engineering,Lagos,Very Poor
+Stf995542,Kelvin Walker,3/31/2013,58000,12/25/1978,M@le,Training,Lagos,Average
+Stf952475,Pet James,4/1/2013,88000,12/26/1972,M@le,Legal,Lagos,Not Rated
+Stf961093,Sani Salami,4/2/2013,65000,12/21/1993,M@le,Legal,Lagos,Average
+Stf114824,Dave Timi,4/3/2013,42000,12/25/1978,M@le,,Lagos,Poor
+Stf893579,Michael Park,4/4/2013,24000,12/24/1983,M@le,Safety,Lagos,Average
+Stf309205,Tyler breeze,4/5/2013,8000,12/22/1988,M@le,Business Development,Lagos,Average
+Stf545092,Thomas  King,4/6/2013,25000,12/18/1989,M@le,Engineering,Lagos,Average
+Stf924283,Promise Patrick,4/7/2013,10000,12/22/1991,M@le,Training,Lagos,Very Poor
+Stf765481,Sam Paul,4/8/2013,55000,12/23/1985,M@le,Legal,Lagos,Good
+Stf611322,Ekong Etim,4/9/2013,38000,12/19/1982,M@le,Legal,Lagos,Very Good
+Stf338284,Basil James,4/10/2013,35000,12/25/1979,M@le,,Lagos,Very Good
+Stf982620,,4/11/2013,42000,12/27/1971,M@le,Safety,Lagos,Average
+Stf241670,John Doe,4/12/2013,81000,12/25/1976,M@le,Business Development,Lagos,Poor
+Stf634949,Jason White,4/13/2013,56000,12/19/1982,M@le,Engineering,Lagos,Poor
+Stf934371,Kelvin Walker,4/14/2013,88000,12/25/1978,M@le,Training,Lagos,Good
+Stf197990,Pet James,4/15/2013,47000,12/22/1990,M@le,Legal,Lagos,Not Rated
+Stf766627,Sani Salami,4/16/2013,46000,12/21/1995,M@le,Legal,Lagos,Very Good
+Stf407772,Dave Timi,4/17/2013,88000,12/26/1974,M@le,,Lagos,Good
+Stf916116,Michael Park,4/18/2013,68000,12/25/1977,M@le,Safety,Lagos,Poor
+Stf405109,Tyler breeze,4/19/2013,59000,12/26/1972,M@le,Business Development,Lagos,Very Good
+Stf648898,Thomas  King,4/20/2013,59000,12/21/1993,M@le,Engineering,Lagos,Poor
+Stf759038,Promise Patrick,4/21/2013,65000,12/24/1981,M@le,Training,Lagos,Very Poor
+Stf905346,Sam Paul,4/22/2013,96000,12/25/1976,M@le,Legal,Lagos,Very Good
+Stf415257,Ekong Etim,4/23/2013,90000,12/20/1997,M@le,Legal,Lagos,Poor
+Stf911089,Basil James,4/24/2013,42000,12/27/1971,M@le,,Lagos,Very Good
+Stf169560,,4/25/2013,66000,12/21/1993,M@le,Safety,Lagos,Poor
+Stf412948,John Doe,4/26/2013,83000,12/26/1974,M@le,Business Development,Lagos,Not Rated
+Stf966276,Jason White,4/27/2013,77000,12/19/1970,M@le,Engineering,Lagos,Average
+Stf339872,Kelvin Walker,4/28/2013,83000,12/19/1970,M@le,Training,Lagos,Not Rated
+Stf621708,Pet James,4/29/2013,75000,12/22/1988,M@le,Legal,Lagos,Very Good
+Stf988875,Sani Salami,4/30/2013,78000,12/22/1990,M@le,Legal,Lagos,Good
+Stf672570,Dave Timi,5/1/2013,35000,12/20/1997,M@le,,Lagos,Poor
+Stf435978,Michael Park,5/2/2013,82000,12/18/1989,M@le,Safety,Lagos,Very Good
+Stf849420,Tyler breeze,5/3/2013,25000,12/17/1988,M@le,Business Development,Lagos,Poor
+Stf372140,Thomas  King,5/4/2013,22000,12/18/1989,M@le,Engineering,Lagos,Very Poor
+Stf975105,Promise Patrick,5/5/2013,5000,12/26/1972,M@le,Training,Lagos,Very Good
+Stf464202,Sam Paul,5/6/2013,3000,12/25/1979,M@le,Legal,Lagos,Poor
+Stf388193,Ekong Etim,5/7/2013,52000,12/25/1979,M@le,Legal,Lagos,Very Good
+Stf140819,Basil James,5/8/2013,92000,12/24/1980,M@le,,Lagos,Poor
+Stf291412,,5/9/2013,5000,12/22/1989,M@le,Safety,Lagos,Not Rated
+Stf603402,John Doe,5/10/2013,26000,12/18/1989,M@le,Business Development,Lagos,Average
+Stf925088,Jason White,5/11/2013,42000,12/25/1977,M@le,Engineering,Lagos,Not Rated
+Stf762051,Kelvin Walker,5/12/2013,55000,12/20/1997,M@le,Training,Lagos,Not Rated
+Stf765582,Pet James,5/13/2013,77000,12/18/1989,M@le,Legal,Lagos,Average
+Stf596497,Sani Salami,5/14/2013,94000,12/21/1995,M@le,Legal,Lagos,Average
+Stf448727,Dave Timi,5/15/2013,85000,12/20/1999,M@le,,Lagos,Very Good
+Stf242037,Michael Park,5/16/2013,17000,12/20/1997,M@le,Safety,Lagos,Average
+Stf618268,Tyler breeze,5/17/2013,44000,12/24/1980,M@le,Business Development,Lagos,Poor
+Stf200470,Thomas  King,5/18/2013,63000,12/20/1999,M@le,Engineering,Lagos,Very Good
+Stf899297,Promise Patrick,5/19/2013,20000,12/22/1991,M@le,Training,Lagos,Average
+Stf876040,Sam Paul,5/20/2013,74000,12/18/1989,M@le,Legal,Lagos,Average
+Stf896689,Ekong Etim,5/21/2013,53000,12/20/1998,M@le,Legal,Lagos,Good
+Stf536367,Basil James,5/22/2013,55000,12/27/1969,M@le,,Lagos,Average
+Stf518544,,5/23/2013,89000,12/24/1982,M@le,Safety,Lagos,Poor
+Stf698387,John Doe,5/24/2013,60000,12/24/1983,M@le,Business Development,Lagos,Average
+Stf524623,Jason White,5/25/2013,26000,12/23/1987,M@le,Engineering,Lagos,Good
+Stf939293,Kelvin Walker,5/26/2013,4000,12/21/1994,M@le,Training,Lagos,Average
+Stf599781,Pet James,5/27/2013,86000,12/22/1989,M@le,Legal,Lagos,Very Poor
+Stf232467,Sani Salami,5/28/2013,98000,12/25/1976,M@le,Legal,Lagos,Good
+Stf352411,Dave Timi,5/29/2013,15000,12/17/1988,M@le,,Lagos,Not Rated
+Stf308420,Michael Park,5/30/2013,10000,12/22/1989,M@le,Safety,Lagos,Poor
+Stf537879,Tyler breeze,5/31/2013,6000,12/21/1993,M@le,Business Development,Lagos,Good
+Stf240730,Thomas  King,6/1/2013,51000,12/27/1969,M@le,Engineering,Lagos,Very Good
+Stf906960,Promise Patrick,6/2/2013,47000,12/20/1998,M@le,Training,Lagos,Poor
+Stf256980,Sam Paul,6/3/2013,86000,12/19/1970,M@le,Legal,Lagos,Average
+Stf979275,Ekong Etim,6/4/2013,95000,12/19/1982,M@le,Legal,Lagos,Good
+Stf374691,Basil James,6/5/2013,71000,12/23/1986,M@le,,Lagos,Good
+Stf141734,,6/6/2013,74000,12/22/1989,M@le,Safety,Lagos,Good
+Stf162267,John Doe,6/7/2013,10000,12/21/1994,M@le,Business Development,Lagos,Average
+Stf671967,Jason White,6/8/2013,100000,12/22/1988,M@le,Engineering,Lagos,Very Poor
+Stf524925,Kelvin Walker,6/9/2013,47000,12/21/1995,M@le,Training,Lagos,Good
+Stf186764,Pet James,6/10/2013,27000,12/27/1969,M@le,Legal,Lagos,Average
+Stf315639,Sani Salami,6/11/2013,72000,12/27/1970,M@le,Legal,Lagos,Average
+Stf515514,Dave Timi,6/12/2013,22000,12/22/1989,Fe#ale,,Lagos,Average
+Stf371072,Michael Park,6/13/2013,60000,12/19/1970,M@le,Safety,Lagos,Average
+Stf598641,Tyler breeze,6/14/2013,63000,12/24/1983,M@le,Business Development,Lagos,Average
+Stf572516,Thomas  King,6/15/2013,29000,12/27/1971,Femqle,Engineering,Lagos,Good
+Stf411040,Promise Patrick,6/16/2013,62000,12/27/1970,Femqle,Training,Lagos,Poor
+Stf731831,Sam Paul,6/17/2013,28000,12/21/1992,Femqle,Legal,Lagos,Very Good
+Stf610519,Ekong Etim,6/18/2013,14000,12/22/1989,Femqle,Legal,Lagos,Good
+Stf802380,Basil James,6/19/2013,49000,12/17/1988,Femqle,,Lagos,Not Rated
+Stf611232,,6/20/2013,72000,12/19/1982,Femqle,Safety,Lagos,Average
+Stf414968,John Doe,6/21/2013,59000,12/20/1997,Femqle,Business Development,Lagos,Good
+Stf482116,Jason White,6/22/2013,41000,12/19/1970,Femqle,Engineering,Lagos,Good
+Stf438777,Kelvin Walker,6/23/2013,66000,12/19/1982,Femqle,Training,Lagos,Good
+Stf370335,Pet James,6/24/2013,6000,12/21/1995,Femqle,Legal,Lagos,Average
+Stf267308,Sani Salami,6/25/2013,100000,12/24/1983,Femqle,Legal,Lagos,Very Poor
+Stf149711,Dave Timi,6/26/2013,79000,12/21/1994,Femqle,,Lagos,Average
+Stf729314,Michael Park,6/27/2013,28000,12/19/1982,Femqle,Safety,Lagos,Not Rated
+Stf194162,Tyler breeze,6/28/2013,71000,12/25/1976,Femqle,Business Development,Lagos,Good
+Stf924740,Thomas  King,6/29/2013,87000,12/19/1982,Femqle,Engineering,Lagos,Average
+Stf576145,Promise Patrick,6/30/2013,91000,12/22/1990,Femqle,Training,Lagos,Not Rated
+Stf685660,Sam Paul,7/1/2013,46000,12/27/1969,Femqle,Legal,Lagos,Average
+Stf490085,Ekong Etim,7/2/2013,73000,12/17/1988,Femqle,Legal,Lagos,Average
+Stf562214,Basil James,7/3/2013,94000,12/20/1998,Femqle,,Lagos,Not Rated
+Stf600822,,7/4/2013,18000,12/26/1973,Femqle,Safety,Lagos,Average
+Stf233548,John Doe,7/5/2013,47000,12/19/1970,Femqle,Business Development,Lagos,Good
+Stf217040,Jason White,7/6/2013,72000,12/23/1985,Femqle,Engineering,Lagos,Average
+Stf743746,Kelvin Walker,7/7/2013,86000,12/18/1989,Femqle,Training,Lagos,Very Good
+Stf989710,Pet James,7/8/2013,24000,12/25/1978,Femqle,Legal,Lagos,Good
+Stf662773,Sani Salami,7/9/2013,19000,12/25/1977,Femqle,Legal,Lagos,Good
+Stf935525,Dave Timi,7/10/2013,29000,12/19/1970,Femqle,,Lagos,Average
+Stf572410,Michael Park,7/11/2013,66000,12/20/1997,Femqle,Safety,Lagos,Average
+Stf385338,Tyler breeze,7/12/2013,53000,12/19/1970,Femqle,Business Development,Lagos,Average
+Stf577193,Thomas  King,7/13/2013,67000,12/21/1993,Femqle,Engineering,Lagos,Good
+Stf957600,Promise Patrick,7/14/2013,54000,12/22/1988,Femqle,Training,Lagos,Average
+Stf740346,Sam Paul,7/15/2013,25000,12/24/1982,Femqle,Legal,Lagos,Average
+Stf256798,Ekong Etim,7/16/2013,73000,12/27/1969,Femqle,Legal,Lagos,Average
+Stf844726,Basil James,7/17/2013,59000,12/26/1973,Femqle,,Lagos,Average
+Stf296889,,7/18/2013,62000,12/23/1986,Femqle,Safety,Lagos,Average
+Stf378755,John Doe,7/19/2013,,12/21/1993,Femqle,Business Development,Lagos,Poor
+Stf849743,Jason White,7/20/2013,,12/18/1989,Femqle,Engineering,Lagos,Average
+Stf547357,Kelvin Walker,7/21/2013,,12/27/1971,Femqle,Training,Lagos,Very Good
+Stf218577,Pet James,7/22/2013,,12/21/1994,Femqle,Legal,Lagos,Good
+Stf207900,Sani Salami,7/23/2013,,12/24/1983,Femqle,Legal,Lagos,Good
+Stf736391,Dave Timi,7/24/2013,,12/26/1975,Femqle,,Lagos,Average
+Stf131129,Michael Park,7/25/2013,,12/21/1994,Femqle,Safety,Lagos,Average
+Stf989411,Tyler breeze,7/26/2013,,12/27/1971,Femqle,Business Development,Lagos,Average
+Stf287107,Thomas  King,7/27/2013,,12/18/1989,Femqle,Engineering,Lagos,Good
+Stf865521,Promise Patrick,7/28/2013,,12/17/1988,Femqle,Training,Lagos,Good
+Stf956150,Sam Paul,7/29/2013,,12/25/1978,Femqle,Legal,Lagos,Very Poor
+Stf527704,Ekong Etim,7/30/2013,,12/24/1983,Femqle,Legal,Lagos,Very Poor
+Stf464766,Basil James,7/31/2013,,12/20/1996,Femqle,,Lagos,Average
+Stf512475,,8/1/2013,,12/25/1978,Femqle,Safety,Lagos,Average
+Stf346591,John Doe,8/2/2013,66000,12/27/1971,M@le,Business Development,Ogu n,Good
