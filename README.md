@@ -1,4 +1,5 @@
 # Data-Cleaning-in-Excel
+Below are some of the steps i took in making sure the "Employee" Dataset is ready for analysis.
 # DATA REPORT FOR THE “EMPLOYEE UNCLEAN” DATASET
 On getting the data, I loaded it into excel and looked through the data to gain some understanding of each column in the dataset. After which, I then converted the data to a table and then checked for duplicates for which there were none. I then loaded the data into Power Query and performed the following data cleaning process:
 1.	Firstly, I checked to see if the data types for each column is correct and I changed the “Date employed” and “Date of birth” columns to date data type. I removed the empty cells the “Name” column 
@@ -14,4 +15,10 @@ On getting the data, I loaded it into excel and looked through the data to gain 
   =IF([@Age]<=45, "Adults (36 - 45)", IF([@Age]<=35, "Young Adults (25 - 35)", "Middle Age (46 - 55)"))
 
 With an interval of 10, I was able to group the column “Age” as the following:
-•	25 – 35 – Young Adult
+- 	25 – 35 – Young Adult
+- 	36 – 45 – Adults 
+-   46 – 55 – Middle Age
+6.	I then took a second look at my data and decided that I needed to split up the “Date Employed” column for possible analysis. Which prompted me to load the data back into Power Query and then used the “split column” with a “/” delimiter to split up the column into “Month Employed”, “Day Employed” and “Year Employed” respectively. I then close and load back to excel.
+7.	Using VLOOKUP, I inserted the month name into the “Month (Text)” column using the “Month Employed” column. Writing my VLOOKUP function as thus:
+     =VLOOKUP([@[Month Employed]],Sheet1!$A$1:$B$13,2,0)
+
