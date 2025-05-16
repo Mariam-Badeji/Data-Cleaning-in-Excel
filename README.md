@@ -1,5 +1,5 @@
 # Data-Cleaning-in-Excel
-Below are some of the steps i took in making sure the "Employee" Dataset is ready for analysis.
+Data cleaning is a critical first step in the data analysis process. It involves identifying and correcting errors, inconsistencies, and inaccuracies within a dataset to ensure the quality and reliability of insights drawn from it. Common tasks include handling missing values, removing duplicates, fixing formatting issues, standardizing categories, and correcting data types. A clean dataset not only improves the accuracy of analysis but also lays the foundation for effective visualizations, modeling, and business decision-making. Below are some of the steps I took in making sure the "Employee" Dataset is ready for analysis.
 # DATA REPORT FOR THE “EMPLOYEE UNCLEAN” DATASET
 On getting the data, I loaded it into excel and looked through the data to gain some understanding of each column in the dataset. After which, I then converted the data to a table and then checked for duplicates for which there were none. I then loaded the data into Power Query and performed the following data cleaning process:
 1.	Firstly, I checked to see if the data types for each column is correct and I changed the “Date employed” and “Date of birth” columns to date data type. I removed the empty cells the “Name” column 
