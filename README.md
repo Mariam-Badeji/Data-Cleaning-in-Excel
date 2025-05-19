@@ -1,6 +1,7 @@
 # Data-Cleaning-in-Excel
+## Inroduction
 Data cleaning is a critical first step in the data analysis process. It involves identifying and correcting errors, inconsistencies, and inaccuracies within a dataset to ensure the quality and reliability of insights drawn from it. Common tasks include handling missing values, removing duplicates, fixing formatting issues, standardizing categories, and correcting data types. A clean dataset not only improves the accuracy of analysis but also lays the foundation for effective visualizations, modeling, and business decision-making. Below are some of the steps I took in making sure the "Employee" Dataset is ready for analysis.
-# Cleaning the “EMPLOYEE UNCLEAN” Dataset
+## Cleaning the “EMPLOYEE UNCLEAN” Dataset
 On getting the data, I loaded it into excel and looked through the data to gain some understanding of each column in the dataset. After which, I then converted the data to a table and then checked for duplicates for which there were none. I then loaded the data into Power Query and performed the following data cleaning process:
 1.	Firstly, I checked to see if the data types for each column is correct and I changed the “Date employed” and “Date of birth” columns to date data type. I removed the empty cells the “Name” column 
 2.	Some columns had empty cells so I went on to fill them. I decided to fill up the empty cells in these columns because, the columns “StaffID” and “Name” were unique to each employee. So, a missing value in some of these columns could just be as a result of improper data entry.  Some of these columns were:
@@ -17,7 +18,7 @@ On getting the data, I loaded it into excel and looked through the data to gain 
 With an interval of 10, I was able to group the column “Age” as the following:
 - 	25 – 35 – Young Adult
 - 	36 – 45 – Adults 
--   46 – 55 – Middle Age
+-  46 – 55 – Middle Age
 6.	I then took a second look at my data and decided that I needed to split up the “Date Employed” column for possible analysis. Which prompted me to load the data back into Power Query and then used the “split column” with a “/” delimiter to split up the column into “Month Employed”, “Day Employed” and “Year Employed” respectively. I then close and load back to excel.
 7.	Using VLOOKUP, I inserted the month name into the “Month (Text)” column using the “Month Employed” column. Writing my VLOOKUP function as thus:
     ``` =VLOOKUP([@[Month Employed]],Sheet1!$A$1:$B$13,2,0)```
